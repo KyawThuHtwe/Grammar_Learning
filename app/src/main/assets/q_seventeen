@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<meta charset="utf-8"/>
+
+<html>
+
+    <head>
+      <link rel="stylesheet" type="text/css" href="patterns.css">
+      <style>
+
+          @font-face {
+            font-family: mmfont;
+            src:
+                    url("file:///android_asset/fonts/Pyidaungsu-Regular.ttf"),
+                    url("file:///android_asset/fonts/Pyidaungsu-Bold.ttf");
+          }
+
+          html *{
+              font-family: "mmfont";
+              font-size: 0.9rem;
+          }
+
+      </style>
+      <script src="jquery.min.js"></script>
+      <script src="bootstrap.min.js"></script>
+      <title>Old Questions</title>
+    </head>
+
+    <body>
+      <div class="container">
+            <br>
+        <p class="text-center text-primary" style="font-weight: bold; font-size: 1.35rem;">2018 Old Questions</p>
+        <br>
+        <p  class="text-success">ပြည်တွင်း</p>
+        <div>
+            1. Nowadays, respect for money has replaced respect for wisdom and knowledge.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_1" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Nowadays, respect for wisdom .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_1">
+                Nowadays, respect for wisdom and knowledge <span class="text-primary">has been replaced</span> <span class="text-success">by respect for money</span>.
+            </p>
+            <hr>
+            2. The climb was so difficult that we stopped to rest several times.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_2" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; It was such .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_2">
+                It was <span class="text-primary">such a difficult climb</span> <span class="text-success">that</span> we stopped to rest several times.
+            </p>
+            <hr>
+            3. She said, "I'd love to help you, but I'm going on holiday with my friends tomorrow."<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_3" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; She said that .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_3">
+                She said that <span class="text-primary">she</span> <span class="text-success">would love</span> to help <span class="text-primary">me</span> but <span class="text-success">she</span> <span class="text-primary">was going</span> on holiday with <span class="text-success">her</span> friends <span class="text-primary">the next day</span>.
+            </p>
+            <hr>
+            4. Computers were developed at the same time as TV and radio. Computers were put into 
+            public service in 1944.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_4" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Computers, .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_4">
+                <span class="text-primary">Computers</span>, <span class="text-success">which were developed at the same time as TV and radio</span>, were put into public service in 1944.<br>
+                (OR)<br>
+                <span class="text-primary">Computers</span>, <span class="text-success">developed at the same time as TV and radio</span>, were put into public service in 1944.
+            </p>
+            <hr>
+            5. Although there were warnings about the approaching storm, the fishermen went ahead as planned.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_5" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; In spite of .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_5">
+                In spite of <span class="text-primary">warnings about the approaching storm</span>, <span class="text-success">the fishermen</span> went ahead as planned.<br>
+                (OR)<br>
+                In spite of <span class="text-primary">there</span> <span class="text-success">being</span> warnings about the approaching storm, <span class="text-primary">the fishermen</span> went ahead as planned.
+            </p>
+            <hr>
+            6. Mosquitoes are the most highly developed insect bloodsuckers.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_6" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; No other insect bloodsucker .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_6">
+                No other insect bloodsucker <span class="text-primary">is</span> <span class="text-success">as highly developed as</span> mosquitoes.
+            </p>
+            <hr>
+            7. University students in many countries do part-time jobs. They earn some money.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_7" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; By .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_7">
+                By <span class="text-primary">doing part-time jobs</span>, university students in many countries earn some money.
+            </p>
+            <hr>
+            8. The number of wi-fi networks is growing rapidly. They are easy and inexpensive to set up.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_8" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Being .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_8">
+                <span class="text-primary">Being easy and inexpensive to set up</span>, <span class="text-success">the number of wi-fi networks</span> is growing rapidly.
+            </p>
+            <hr>
+            9. The population explosion has pushed people towards towns and cities.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_9" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; It is the population explosion .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_9">
+                It is <span class="text-primary">the population explosion</span> <span class="text-success">that</span> has pushed people towards towns and cities.
+            </p>
+            <hr>
+            10. The four young men paid their respects to their professor. They set forth on their journey home.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_10" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Before .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_10">
+                Before <span class="text-primary">setting forth</span> on their journey home, <span class="text-success">the four young men</span> paid their respects to their professor.<br>
+                (OR)<br>
+                Before <span class="text-primary">they</span> <span class="text-success">set forth</span> on their journey home, <span class="text-primary">the four young men</span> paid their respects to their professor.
+            </p>
+            <hr>
+        </div>
+        <p  class="text-success">နိုင်ငံခြား</p>
+        <div>
+            1. The audience needs to be more disciplined or they will be asked to leave this stadium.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_1" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Unless .....
+                </a>
+            </p>
+            <p class="collapse" id="for_1">
+                Unless the audience <span class="text-primary">is</span> more disciplined, they will be asked to leave this stadium.
+            </p>
+            <hr>
+            2. The scientists are paying close attention to how mosquitoes cause infectious diseases.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_2" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Close attention .....
+                </a>
+            </p>
+            <p class="collapse" id="for_2">
+                Close attention <span class="text-primary">is being paid</span> to how mosquitoes cause infectious diseases <span class="text-success">by scientists</span>.
+            </p>
+            <hr>
+            3. The problem was so difficult that he could not solve it in a short time.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_3" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; The problem was not .....
+                </a>
+            </p>
+            <p class="collapse" id="for_3">
+                The problem was <span class="text-primary">not easy enough</span> <span class="text-success">for him</span> <span class="text-secondary">to solve</span> in a short time.
+            </p>
+            <hr>
+            4. The poodle is one of the most intelligent breeds of dogs.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_4" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Very few .....
+                </a>
+            </p>
+            <p class="collapse" id="for_4">
+                Very few <span class="text-primary">breeds of dogs</span> <span class="text-success">are</span> <span class="text-primary">as intelligent as</span> the poodle.
+            </p>
+            <hr>
+            5. You will be treated by others as you treat them.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_5" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Others .....
+                </a>
+            </p>
+            <p class="collapse" id="for_5">
+                Others <span class="text-primary">will treat</span> <span class="text-success">you</span> as you treat them.
+            </p>
+            <hr>
+            6. As soon as I closed my eyes, I fell asleep.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_6" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; No sooner .....
+                </a>
+            </p>
+            <p class="collapse" id="for_6">
+                No sooner <span class="text-primary">did</span> <span class="text-success">I</span> <span class="text-primary">close</span> my eyes <span class="text-secondary">than</span> I fell asleep.
+            </p>
+            <hr>
+            7. Although the price was high, we decided to buy the house.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_7" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; In spite of .....
+                </a>
+            </p>
+            <p class="collapse" id="for_7">
+                In spite of <span class="text-primary">the high price</span>, <span class="text-success">we</span> decided to buy the house.<br>
+                (OR)<br>
+                In spite of <span class="text-primary">the price</span> <span class="text-success">being</span> high, <span class="text-primary">we</span> decided to buy the house.
+            </p>
+            <hr>
+            8. As I worked more, I spend less time with my family.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_8" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; The more .....
+                </a>
+            </p>
+            <p class="collapse" id="for_8">
+                <span class="text-primary">The more</span> <span class="text-success">I worked</span>, <span class="text-primary">the less time</span> <span class="text-success">I spend with my family</span>.
+            </p>
+            <hr>
+            9. Learning can help us experience the beauty of the world.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_9" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; It is .....
+                </a>
+            </p>
+            <p class="collapse" id="for_9">
+                It is <span class="text-primary">learning</span> <span class="text-success">that</span> can help us experience the beauty of the world.<br>
+            </p>
+            <hr>
+            10. All students deserve equal opportunities to learn and succeed in life.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_10" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; There is no .....
+                </a>
+            </p>
+            <p class="collapse" id="for_10">
+                There is no <span class="text-primary">student</span> <span class="text-success">who</span> <span class="text-secondary">does not deserve</span> equal opportunities to learn and succeed in life.
+            </p>
+            <hr>
+            <p class="text-center"><span class="text-primary font-weight-bold">Matric Grammar Helper by Win Zaw Tun ( Mogok )
+            <hr>
+        </div>
+
+      </div>
+    </body>
+
+</html>

@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<meta charset="utf-8"/>
+
+<html>
+
+    <head>
+      <link rel="stylesheet" type="text/css" href="patterns.css">
+      <style>
+
+          @font-face {
+            font-family: mmfont;
+            src:
+                    url("file:///android_asset/fonts/Pyidaungsu-Regular.ttf"),
+                    url("file:///android_asset/fonts/Pyidaungsu-Bold.ttf");
+          }
+
+          html *{
+              font-family: "mmfont";
+              font-size: 0.9rem;
+          }
+
+      </style>
+      <script src="jquery.min.js"></script>
+      <script src="bootstrap.min.js"></script>
+      <title>Old Questions</title>
+    </head>
+
+    <body>
+      <div class="container">
+            <br>
+        <p class="text-center text-primary" style="font-weight: bold; font-size: 1.35rem;">2017 Old Questions</p>
+        <br>
+        <p  class="text-success">ပြည်တွင်း</p>
+        <div>
+            1. The teacher said to the students, "Why weren't you listening to me?"<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_1" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; The teacher asked .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_1">
+                The teacher asked the students why <span class="text-primary">they</span> <span class="text-success">had not been listening</span> to <span class="text-primary">her</span>.
+            </p>
+            <hr>
+            2. Kate showed me all the things she bought.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_2" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; I .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_2">
+                I <span class="text-primary">was shown</span> all the things she bought <span class="text-success">by Kate</span>.
+            </p>
+            <hr>
+            3. Bill Gates is so rich that he is rated as one of the richest men in the world.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_3" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Bill Gates is such .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_3">
+                Bill Gates is <span class="text-primary">such a rich man</span> <span class="text-success">that</span> he is rated as one of the richest men in the world.
+            </p>
+            <hr>
+            4. As soon as Kyi Kyi saw the fire, she telephoned the fire department.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_4" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; No sooner .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_4">
+                No sooner <span class="text-primary">did</span> <span class="text-success">Kyi Kyi</span> <span class="text-primary">see</span> the fire <span class="text-secondary">than</span> she telephoned the fire department.
+            </p>
+            <hr>
+            5. Every student has to bring his identity card to the examination hall.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_5" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; There is no .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_5">
+                There is no <span class="text-primary">student</span> <span class="text-success">who</span> <span class="text-secondary">does not have</span> to bring his identity card to the examination hall.
+            </p>
+            <hr>
+            6. Although Helen was a difficult child, her parents loved her.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_6" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; In spite of .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_6">
+                In spite of <span class="text-primary">Helen</span> <span class="text-success">being</span> a difficult child, <span class="text-primary">her parents</span> loved her.
+            </p>
+            <hr>
+            7. I had a cup of tea before I left for work this morning.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_7" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; After I .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_7">
+                After I <span class="text-primary">had had</span> a cup of tea<span class="text-success">, I</span> left for work this morning.
+            </p>
+            <hr>
+            8. Football is the most popular game in the world. We all like to play football.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_8" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; We all like .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_8">
+                We all like to play <span class="text-primary">football</span>, <span class="text-success">the most popular game in the world</span>.
+            </p>
+            <hr>
+            9. Both of the restaurants we went to were expensive.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_9" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Neither of .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_9">
+                <span class="text-primary">Neither of</span> the restaurants we went to <span class="text-success">was</span> cheap.
+            </p>
+            <hr>
+            10. Jurong Bird Park is larger than any other bird park in Southeast Asia.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_10" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; No .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_10">
+                No other <span class="text-primary">bird park in Southeast Asia</span> <span class="text-success">is</span> <span class="text-secondary">as large as</span> Jurong Bird Park.
+            </p>
+            <hr>
+        </div>
+        <p  class="text-success">နိုင်ငံခြား</p>
+        <div>
+            1. The novel was very interesting and I read it twice.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_1" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; It was such .....
+                </a>
+            </p>
+            <p class="collapse" id="for_1">
+                It was <span class="text-primary">such an interesting novel</span> <span class="text-success">that</span> I read it twice.
+            </p>
+            <hr>
+            2. I didn't know her phone number, so I was not able to ring her.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_2" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Not .....
+                </a>
+            </p>
+            <p class="collapse" id="for_2">
+                <span class="text-primary">Not knowing</span> her phone number, <span class="text-success">I</span> was not able to ring her.
+            </p>
+            <hr>
+            3. This computer holds less information than that one.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_3" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; This computer does .....
+                </a>
+            </p>
+            <p class="collapse" id="for_3">
+                This computer <span class="text-primary">does not hold as much information</span> <span class="text-success">as that one</span>.
+            </p>
+            <hr>
+            4. My father didn't earn much money, so life wasn't easy for us.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_4" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; If my father had .....
+                </a>
+            </p>
+            <p class="collapse" id="for_4">
+                If my father <span class="text-primary">had earned</span> a lot of money, life <span class="text-success">would have been</span> easy for us.
+            </p>
+            <hr>
+            5. It's difficult to find work these days but Joe has just given up his job.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_5" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Even though .....
+                </a>
+            </p>
+            <p class="collapse" id="for_5">
+                <span class="text-primary">Even though</span> it's difficult to find work these days, Joe has just given up his job.
+            </p>
+            <hr>
+            6. I arrived at the cinema early not to miss the beginning of the film.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_6" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; I arrived at the cinema early in order that .....
+                </a>
+            </p>
+            <p class="collapse" id="for_6">
+                I arrived at the cinema early <span class="text-primary">in order that</span> <span class="text-success">I would not miss the beginning of the film</span>.
+            </p>
+            <hr>
+            7. I asked my mother, "Did you book a room with a balcony?"<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_7" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; I asked my mother .....
+                </a>
+            </p>
+            <p class="collapse" id="for_7">
+                I asked my mother <span class="text-primary">if</span> <span class="text-success">she</span> <span class="text-primary">had booked</span> a room with a balcony.
+            </p>
+            <hr>
+            8. Archaeologists have discovered a new tomb in Egypt.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_8" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; A new tomb .....
+                </a>
+            </p>
+            <p class="collapse" id="for_8">
+                A new tomb <span class="text-primary">has been discovered</span> in Egypt <span class="text-success">by archaeologists</span>.
+            </p>
+            <hr>
+            9. Ngapali is an attractive beach. Most people like to visit there.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_9" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Most people .....
+                </a>
+            </p>
+            <p class="collapse" id="for_9">
+                Most people like to visit <span class="text-primary">Ngapali</span>, <span class="text-success">an attractive beach</span>.
+            </p>
+            <hr>
+            10. I bought a watch from Cherry Oo. It is a birthday present for my sister.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_10" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; The watch which .....
+                </a>
+            </p>
+            <p class="collapse" id="for_10">
+                <span class="text-primary">The watch</span> <span class="text-success">which I bought from Cherry Oo</span> is a present for my sister.
+            </p>
+            <hr>
+            <p class="text-center"><span class="text-primary font-weight-bold">Matric Grammar Helper by Win Zaw Tun ( Mogok )
+            <hr>
+        </div>
+      </div>
+    </body>
+
+</html>

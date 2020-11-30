@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<html>
+
+    <head>
+        <link rel="stylesheet" type="text/css" href="patterns.css">
+        <title>Conditionals</title>
+        <style>
+            @font-face {
+                font-family: mmfont;
+                src:
+                    url("file:///android_asset/fonts/Pyidaungsu-Regular.ttf"),
+                    url("file:///android_asset/fonts/Pyidaungsu-Bold.ttf");
+            }
+
+            html *{
+                font-family: mmfont;
+                font-size: 0.9rem;
+            }
+			
+			.card-header {
+              text-align: center;
+            }
+        </style>
+    </head>
+
+    <body>
+        <div class="container">
+            <br>
+            <p class="text-center" style="font-weight: bold; font-size: 1.35rem;">Conditionals</p>
+            <br>
+            <p>
+              <span class="font-weight-bold">Introduction</span><br>
+              <br>
+              အခြေအနေတစ်ခု ဖြစ်ပျက်လျင် နောက်အခြေအနေတစ်ခု ဖြစ်ပျက်မည်ကို ပြောလိုသည့်အခါ ဝါကျနှစ်ကြောင်းကို <span class="text-primary">if</span> ဖြင့်ဆက်ပြီး ရေးနိုင်သည်...
+              <span class="text-primary">if</span> အသုံးပြုပြီး ရေးထားသော ဝါကျတည်ဆောက်ပုံကို <span class="text-primary">conditional structure</span> ဟုခေါ်သည်<br>
+              <br>
+              &#9726;<span class="text-primary">If you get here before eight</span>, we can catch the early train.<br>
+              &#9726;Oil floats <span class="text-primary">if you pour it on water</span>.
+              <hr>
+            </p>
+            <span class="font-weight-bold">Conditional: Types</span><br>
+            <br>
+            <p>
+              <span class="text-primary">conditional</span> အမျိုးအစား သုံးမျိုးရှိသည်
+              <ul>
+                <li>
+                  <span class="text-dark">Type One:</span> <span class="text-success">if + present .... will + infinitive</span><br>
+                    &#9726;If we <span class="text-primary">play</span> tennis, I <span class="text-primary">will win</span>.
+                </li>
+                <br>
+                <li>
+                  <span class="text-dark">Type Two:</span> <span class="text-success">if + past .... would + infinitive</span><br>
+                  &#9726;If we <span class="text-primary">played</span> tennis, I <span class="text-primary">would win</span>.
+                </li>
+                <br>
+                <li>
+                  <span class="text-dark">Type Three:</span> <span class="text-success">if + past perfect .... would have + past participle</span><br>
+                  &#9726;If we <span class="text-primary">had played</span> tennis, I <span class="text-primary">would have won</span>.
+                </li>
+              </ul>
+              <span class="text-primary">conditional type one</span> သည် ဖြစ်နိုင်ခြေရှိသော အခြေအနေမျိုးကို ဖော်ပြသည်... ဝါကျ တည်ဆောက်ပုံမှာ
+              <span class="text-primary">if-clause</span> တွင် <span class="text-primary">present (V1)</span> ဖြစ်ပြီး <span class="text-primary">main clause</span> တွင်
+              <span class="text-primary">simple future (will + V1)</span> ဖြစ်သည်<br>
+              <br>
+              &#9726;If it <span class="text-primary">rains</span>, we <span class="text-primary">will not go</span> out.<br>
+              &#9726;If Nilar <span class="text-primary">is</span> late, her boss <span class="text-primary">will be</span> mad.<br>
+              &#9726;If you <span class="text-primary">don't hurry</span>, you <span class="text-primary">will be</span> late.<br>
+              <br>
+              <span class="text-primary">conditional type two</span> သည် ယခုလက်ရှိတွင် ဖြစ်မနေသော အခြေအနေ (သို့) စိတ်ကူးယဉ် အခြေအနေကို ဖော်ပြသည်...
+              <span class="text-primary">ငါသာ ငှက်ကလေးတစ်ကောင်ဖြစ်ရင်...</span>, <span class="text-primary">ထီပေါက်ခဲ့ရင်...</span>
+              စသော အခြေအနေများအတွက် အသုံးပြုသည်... ဝါကျတည်ဆောက်ပုံမှာ <span class="text-primary">if-clause</span> တွင် <span class="text-primary">past(V2)</span>
+              ဖြစ်ပြီး <span class="text-primary">main clause</span> တွင် <span class="text-primary">would + infinitive(V1)</span> ဖြစ်သည်<br>
+              <br>
+              &#9726;If I <span class="text-primary">were</span> a bird, I <span class="text-primary">would</span> fly away.<br>
+              &#9726;If I <span class="text-primary">knew</span> her name, I <span class="text-primary">would tell</span> you.</br>
+              &#9726;If I <span class="text-primary">had</span> a big house, I <span class="text-primary">would be</span> very happy.<br>
+              &#9726;What <span class="text-primary">would</span> you <span class="text-primary">do</span>
+              if you <span class="text-primary">lost</span> your job ?<br>
+              <br>
+              <div class="card">
+                <div class="card-header">
+                <span class="font-weight-bold">Conditionals: Tenses</span>
+                </div>
+                <div class="card-body">
+                  <p class="card-text">
+                    ပုံမှန်အားဖြင့် မှန်ကန်နေသည့် အကြောင်းအရာများကို ပြောဆိုသည့်အခါ <span class="text-primary">main clause</span> တွင်
+                    <span class="text-primary">future</span> အစား <span class="text-primary">present/ past</span> ကိုသာ အသုံးပြုသည်<br>
+                    <br>
+                    &#9726;Oil <span class="text-primary">floats</span> if you pour it on water. (NOT ... <del>Oil will float </del>)<br>
+                    &#9726;If you heat ice, it <span class="text-primary">melts</span>.<br>
+                    &#9726;If Ko Ko didn't come to work yesterday, he <span class="text-primary">was</span> probably ill.<br>
+                    <br>
+                      ယခုလို အသုံးပြုပုံကို အချို့က <span class="text-primary">conditional type zero</span> ဟု ခေါ်ကြသည်
+                  </p>
+                </div>
+              </div>
+              <br>
+              <span class="text-primary">conditional type three</span> ကို <span class="text-primary">unreal past</span> ဟုလည်း ခေါ်သည်...
+              အတိတ်ကာလက ဖြစ်ပျက်ခဲ့သော/ မဖြစ်ပျက်ခဲ့သော အကြောင်းအရာနှင့် ၎င်း၏ အကျိုးဆက်ကို ဖော်ပြသည်...
+              ဝါကျ တည်ဆောက်ပုံမှာ <span class="text-primary">if-clause</span> တွင် <span class="text-primary">past perfect (had + v3)</span>
+              ဖြစ်ပြီး <span class="text-primary">main clause</span> တွင် <span class="text-primary">would have + past participle(V3)</span> ပုံစံ ဖြစ်သည်<br>
+              <br>
+              &#9726;If you <span class="text-primary">had tried hard</span>, you <span class="text-primary">would have passed</span> the exam.<br>
+              (အခုတော့ မကြိုးစားခဲ့သည့် အကျိုးဆက်ကြောင့် စာမေးပွဲ မအောင်ခဲ့ ဟုဆိုလိုသည်)<br>
+              &#9726;If you <span class="text-primary">had asked</span> me, I <span class="text-primary">would have told</span> you.<br>
+              &#9726;I <span class="text-primary">would have been</span> in bad trouble if he <span class="text-primary">had not helped</span> me.<br>
+              သူ သာမကူညီခဲ့ရင် ဒုက္ခ ကောင်းကောင်းရောက်မှာ<br>(အခုတော့ သူ ကူညီခဲ့လို့ ဒုက္ခမရောက်ဘူး...)
+            </p>
+            <br>
+            <div class="card">
+              <div class="card-header">
+              <span class="font-weight-bold">Conditionals in action</span>
+              </div>
+              <div class="card-body">
+                <p class="card-text">
+                  <span class="font-weight-bold">Case one:</span><br>
+                  <br>
+                  I don't have a car, so I'm not able to go wherever I want.<br>
+                  <br>
+                  ယခု ဝါကျကိုကြည့်လျင် ကားသာရှိလျင် သွားချင်ရာ သွားနိုင်မည် ဟု စိတ်ကူးယဉ်ပုံစံဖြစ်ကြောင်း တွေ့ရမည်...
+                  <span class="text-primary">conditional type two</span> ကို အသုံးပြုရမည်...
+                  အထက်ပါ ဝါကျကို အောက်ပါအတိုင်း ရေးသားနိုင်သည်<br>
+                  <br>
+                  &#9726;If I <span class="text-primary">had</span> a car, I <span class="text-primary">would be</span> able to go wherever I want.
+                  <hr>
+                  <span class="font-weight-bold">Case two:</span><br>
+                  <br>
+                  My father didn't earn much money, so life wasn't easy for us.<br>
+                  <br>
+                  ယခုဝါကျသည် အတိတ်ကမဖြစ်ပျက်ခဲ့သည့် အကြောင်းအရာကို ဖော်ပြသည်...
+                  <span class="text-primary">အဖေသာ ပိုက်ဆံများများဝင်ခဲ့ရင် ဘဝက လွယ်ကူချောမွေ့ခဲ့မယ်</span> ဟု ပြန်ပြင်မရသည့် အတိတ်အကြာင်း
+                  ပြောဆိုနေသောကြောင့် <span class="text-primary">conditional type three</span> သုံးပြီး ယခုလို ရေးနိုင်သည်<br>
+                  <br>
+                  &#9726;If father <span class="text-primary">had earned</span> a lot of money, life <span class="text-primary">would have been</span> easy for us.
+                </p>
+              </div>
+            </div>
+            <br>
+            <br>
+            <div class="card">
+              <div class="card-header">
+              <span class="font-weight-bold">Mixed conditionals : another headache?</span>
+              </div>
+              <div class="card-body">
+                <p class="card-text">
+                  တစ်ခါတစ်ရံ <span class="text-primary">conditional</span> များကို <span class="text-primary">type two</span> နှင့်
+                  <span class="text-primary">type three</span> အတူရောပြီး အသုံးပြုတတ်သည်<br>
+                  <br>
+                  &#9726;If I <span class="text-primary ">had worked</span> harder at school, I <span class="text-primary">would have</span> a better job now.<br>
+                  (ကျောင်းတုန်းက စာမကြိုးစားခဲ့တဲ့ ရလဒ်က အခု အလုပ်ကောင်းကောင်းမရဘူး လို့ဆိုလိုသည်)<br>
+                  <br>
+                  <span class="text-primary">if-clause</span> တွင် <span class="text-primary">conditional type three</span> အသုံးပြုပြီး
+                  <span class="text-primary">main clause</span> တွင် <span class="text-primary">conditional type two</span> အသုံးပြုထားသည်<br>
+                  <br>
+                  One more example:<br>
+                  &#9726;If we <span class="text-primary">had looked</span> at the map, we <span class="text-primary">wouldn't be</span> lost.
+                  <hr>
+                  &#9726;If you <span class="text-primary">weren't</span> afraid of spiders, you <span class="text-primary">would have picked</span>
+                  it up and put it outside.<br>
+                  ( ပင့်ကူကို ကြောက်တတ်လို့ ကောက်မကိုင်ခဲ့တာ... )<br>
+                  <br>
+                  <span class="text-primary">if-clause</span> တွင် <span class="text-primary">conditional type two</span> အသုံးပြုပြီး
+                  <span class="text-primary">main clause</span> တွင် <span class="text-primary">conditional type three</span> အသုံးပြုထားသည်<br>
+                </p>
+              </div>
+            </div>
+            <br>
+            <br>
+            <div><span class="text-primary font-weight-bold">Reference :</span>
+              <span class="font-weight-bold">Matric Grammar Helper by Win Zaw Tun ( Mogok )</span></div>
+            <hr>
+            <p class="text-center"><span class="text-primary font-weight-bold">Grammar Learning by Kyaw Thu</span></p>
+            <hr>
+            <br>
+            <br>
+        </div>
+
+    </body>
+
+</html>

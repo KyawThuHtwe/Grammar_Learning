@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<meta charset="utf-8"/>
+
+<html>
+
+    <head>
+      <link rel="stylesheet" type="text/css" href="patterns.css">
+      <style>
+
+          @font-face {
+            font-family: mmfont;
+            src:
+                    url("file:///android_asset/fonts/Pyidaungsu-Regular.ttf"),
+                    url("file:///android_asset/fonts/Pyidaungsu-Bold.ttf");
+          }
+
+          html *{
+              font-family: "mmfont";
+              font-size: 0.9rem;
+          }
+
+      </style>
+      <script src="jquery.min.js"></script>
+      <script src="bootstrap.min.js"></script>
+      <title>Old Questions</title>
+    </head>
+
+    <body>
+      <div class="container">
+            <br>
+        <p class="text-center text-primary" style="font-weight: bold; font-size: 1.35rem;">2015 Old Questions</p>
+        <br>
+        <p  class="text-success">ပြည်တွင်း</p>
+        <div>
+            1. You can find lots of good restaurants around here.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_1" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Lots of .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_1">
+                Lots of good restaurants <span class="text-primary">can be found</span> around here.
+            </p>
+            <hr>
+            2. Nyi Nyi's mother said to him, "What did you do at school today?"<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_2" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Nyi Nyi's mother asked him .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_2">
+                Nyi Nyi's mother asked him what <span class="text-primary">he</span> <span class="text-success">had done</span> at school <span class="text-secondary">that day</span>.
+            </p>
+            <hr>
+            3. I told my mother about my problem. Then I felt as if a weight had been lifted from my shoulders.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_3" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; After .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_3">
+                After <span class="text-primary">telling</span> my mother about my problem<span class="text-success">, I</span> felt as if a weight had been lifted from my shoulders.<br>
+                (OR)<br>
+                After <span class="text-primary">I</span> <span class="text-success">had told</span> my mother about the problem<span class="text-primary">, I</span> felt as if a weight had been lifted from my shoulders.
+            </p>
+            <hr>
+            4. Crowds line the road. They cheered the victorious footballers.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_4" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Lining .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_4">
+                <span class="text-primary">Lining</span> the road, <span class="text-success">crowds</span> cheered the victorious footballers.
+            </p>
+            <hr>
+            5. Although I had had a big lunch, I was very hungry.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_5" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; In spite of .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_5">
+                In spite of <span class="text-primary">having had</span> a big lunch, <span class="text-success">I</span> was very hungry.
+            </p>
+            <hr>
+            6. If the football team does not train hard, it will not qualify for the World Cup.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_6" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Unless .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_6">
+                Unless the football team <span class="text-primary">trains</span> hard, it will not qualify for the World Cup.
+            </p>
+            <hr>
+            7. I had become very bored with running on my own. I decided to join a running club.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_7" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; I had become so .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_7">
+                I had become <span class="text-primary">so bored with running on my own</span> <span class="text-success">that</span> I decided to join a running club.
+            </p>
+            <hr>
+            8. Walking cuts out pollution. It also has the advantage of slowing down your lifestyle.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_8" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Walking not only .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_8">
+                Walking <span class="text-primary">not only</span> <span class="text-success">cuts out pollution</span> <span class="text-primary">but also</span> <span class="text-success">has the advantage of slowing down your lifestyle</span>.
+            </p>
+            <hr>
+            9. A number of important vitamins are found naturally in dark green vegetables like spinach.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_9" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; It .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_9">
+                It is <span class="text-primary">a number of important vitamins</span> <span class="text-success">that</span> are found naturally in dark green vegetables like spinach.
+            </p>
+            <hr>
+            10. My headache was so bad that I could not think straight.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_10" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; I had such .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_10">
+                I had <span class="text-primary">such a bad headache</span> <span class="text-success">that</span> I could not think straight.
+            </p>
+            <hr>
+        </div>
+        <p  class="text-success">နိုင်ငံခြား</p>
+        <div>
+            1. The police have issued a description of the wanted man.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_1" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; A description .....
+                </a>
+            </p>
+            <p class="collapse" id="for_1">
+                A description of the wanted man <span class="text-primary">has been issued</span> <span class="text-success">by the police</span>.
+            </p>
+            <hr>
+            2. Capillaries carry pure blood from the arteries to all the tissues and organs of the body.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_2" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; It .....
+                </a>
+            </p>
+            <p class="collapse" id="for_2">
+                It is <span class="text-primary">capillaries</span> <span class="text-success">that</span> carry pure blood from the arteries to all the tissues and organs of the body.
+            </p>
+            <hr>
+            3. If the hotel does not have an internet connection, I will not send you an e-mail.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_3" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Unless .....
+                </a>
+            </p>
+            <p class="collapse" id="for_3">
+                Unless the hotel <span class="text-primary">has</span> an internet connection, I will not send you an e-mail.
+            </p>
+            <hr>
+            4. As soon as the ship left port, a violent storm developed.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_4" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; No sooner .....
+                </a>
+            </p>
+            <p class="collapse" id="for_4">
+                No sooner <span class="text-primary">did</span> <span class="text-success">the ship</span> <span class="text-primary">leave</span> port <span class="text-secondary">than</span> a violent storm developed.
+            </p>
+            <hr>
+            5. "Don't forget to give me a ring tomorrow, Peter," said Michael.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_5" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Michael told .....
+                </a>
+            </p>
+            <p class="collapse" id="for_5">
+                Michael told Peter <span class="text-primary">not to forget</span> to give <span class="text-success">him</span> a ring <span class="text-secondary">the next day</span>.
+            </p>
+            <hr>
+            6. Manila is the capital of the Philippines. Manila comes alive with discos and the rhythms of Filipino band and pop groups at night.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_6" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Manila, .....
+                </a>
+            </p>
+            <p class="collapse" id="for_6">
+                <span class="text-primary">Manila</span>, <span class="text-success">the capital of the Philippines</span>, comes alive with discos and the rhythms of Filipino band and pop groups at night.
+            </p>
+            <hr>
+            7. All tigers eat flesh.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_7" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; There is no .....
+                </a>
+            </p>
+            <p class="collapse" id="for_7">
+                There is no <span class="text-primary">tiger</span> <span class="text-success">that</span> <span class="text-secondary">does not eat</span> flesh.
+            </p>
+            <hr>
+            8. Mg Mg's motor cycle was stolen last night. Nobody saw it.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_8" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Without .....
+                </a>
+            </p>
+            <p class="collapse" id="for_8">
+                Without <span class="text-primary">being seen</span>, <span class="text-success">Mg Mg's motor cycle</span> was stolen last night.
+            </p>
+            <hr>
+            9. When people become wealthy, they will be proud.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_9" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; The wealthier .....
+                </a>
+            </p>
+            <p class="collapse" id="for_9">
+                <span class="text-primary">The wealthier</span> <span class="text-success">people become</span>, <span class="text-primary">the prouder</span> <span class="text-success">they will be</span>.
+            </p>
+            <hr>
+            10. Computer is one of the greatest inventions.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_10" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Very few .....
+                </a>
+            </p>
+            <p class="collapse" id="for_10">
+                Very few <span class="text-primary">inventions</span> <span class="text-success">are</span> <span class="text-secondary">as great as</span> computer.
+            </p>
+            <hr>
+            <p class="text-center"><span class="text-primary font-weight-bold">Matric Grammar Helper by Win Zaw Tun ( Mogok )
+            <hr>
+        </div>
+
+      </div>
+    </body>
+
+</html>

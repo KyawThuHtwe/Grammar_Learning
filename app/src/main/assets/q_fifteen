@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<meta charset="utf-8"/>
+
+<html>
+
+    <head>
+      <link rel="stylesheet" type="text/css" href="patterns.css">
+      <style>
+
+          @font-face {
+            font-family: mmfont;
+            src:
+                    url("file:///android_asset/fonts/Pyidaungsu-Regular.ttf"),
+                    url("file:///android_asset/fonts/Pyidaungsu-Bold.ttf");
+          }
+
+          html *{
+              font-family: "mmfont";
+              font-size: 0.9rem;
+          }
+
+      </style>
+      <script src="jquery.min.js"></script>
+      <script src="bootstrap.min.js"></script>
+      <title>Old Questions</title>
+    </head>
+
+    <body>
+      <div class="container">
+            <br>
+        <p class="text-center text-primary" style="font-weight: bold; font-size: 1.35rem;">2016 Old Questions</p>
+        <br>
+        <p  class="text-success">ပြည်တွင်း</p>
+        <div>
+            1. A crowded bus hit the lamp post near our house.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_1" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; The lamp post .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_1">
+                The lamp post near our house <span class="text-primary">was hit</span> <span class="text-success">by a crowded bus</span>.
+            </p>
+            <hr>
+            2. If she does not take exercises, she will gain weight.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_2" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Unless .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_2">
+                Unless she <span class="text-primary">takes</span> exercises, she will gain weight.
+            </p>
+            <hr>
+            3. Although my sister is thin, she is healthy.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_3" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; In spite of .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_3">
+                In spite of <span class="text-primary">being</span> thin, <span class="text-success">my sister</span> is healthy.
+            </p>
+            <hr>
+            4. Everyone needs good health.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_4" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; There is no .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_4">
+                There is no <span class="text-primary">one</span> <span class="text-success">who</span> <span class="text-secondary">does not need</span> good health.
+            </p>
+            <hr>
+            5. Nilar said, "Did you go to Ngapali with your friends last year, Tun Tun?"<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_5" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Nilar asked .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_5">
+                Nilar asked Tun Tun <span class="text-primary">if</span> <span class="text-success">he</span> <span class="text-primary">had gone</span> to Ngapali with <span class="text-success">his</span> friends <span class="text-secondary">the previous year</span>.
+            </p>
+            <hr>
+            6. The maid sang a song. She washed the clothes under the tree.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_6" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Singing .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_6">
+                <span class="text-primary">Singing</span> a song, <span class="text-success">the maid</span> washed the clothes under the tree.
+            </p>
+            <hr>
+            7. The main aim to use a certain language is to communicate with each other.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_7" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; It is .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_7">
+                It is <span class="text-primary">to communicate with each other</span> <span class="text-success">that</span> is the main aim to use a certain language.
+            </p>
+            <hr>
+            8. A wise man controls his anger. He knows that it causes mistakes.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_8" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; A wise man not only .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_8">
+                A wise man <span class="text-primary">not only</span> <span class="text-success">controls his anger</span> <span class="text-primary">but also</span> <span class="text-success">knows that it causes mistakes</span>.
+            </p>
+            <hr>
+            9. Sittway is a coastal town in Rakhine State. Sittway is clean and beautiful.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_9" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Sittway, .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_9">
+                <span class="text-primary">Sittway</span>, <span class="text-success">a coastal town in Rakhine State</span>, is clean and beautiful.
+            </p>
+            <hr>
+            10. Daw Nu was very satisfied with her son's marks in the test. She gave him a new watch.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_10" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Daw Nu was so .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_10">
+                Daw Nu was <span class="text-primary">so satisfied with her son's marks in the test</span> <span class="text-success">that</span> she gave him a new watch.
+            </p>
+            <hr>
+        </div>
+        <p  class="text-success">နိုင်ငံခြား</p>
+        <div>
+            1. After Ma Ma had tidied her room, she took a rest.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_1" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Having .....
+                </a>
+            </p>
+            <p class="collapse" id="for_1">
+                <span class="text-primary">Having tidied</span> her room, <span class="text-success">Ma Ma</span> took a rest.
+            </p>
+            <hr>
+            2. "Can't you draw in your room?" Ko Ko said to Mi Mi.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_2" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Ko Ko asked .....
+                </a>
+            </p>
+            <p class="collapse" id="for_2">
+                Ko Ko asked Mi Mi <span class="text-primary">if</span> <span class="text-success">she</span> <span class="text-primary">could not draw</span> in <span class="text-success">her</span> own room.
+            </p>
+            <hr>
+            3. I had just sat at the table when the lights went out.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_3" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; No sooner .....
+                </a>
+            </p>
+            <p class="collapse" id="for_3">
+                No sooner <span class="text-primary">had</span> <span class="text-success">I</span> <span class="text-primary">sat</span> at the table <span class="text-secondary">than</span> the lights went out.
+            </p>
+            <hr>
+            4. The fishermen threw out their nets and waited patiently.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_4" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; After .....
+                </a>
+            </p>
+            <p class="collapse" id="for_4">
+                After <span class="text-primary">throwing out</span> their nets<span class="text-success">, the fishermen</span> waited patiently.<br>
+                (OR)<br>
+                After <span class="text-primary">the fishermen</span> <span class="text-success">had thrown out</span> their nets<span class="text-primary">, they</span> waited patiently.
+            </p>
+            <hr>
+            5. Although he had good qualities, he was quite stubborn.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_5" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; In spite of .....
+                </a>
+            </p>
+            <p class="collapse" id="for_5">
+                In spite of <span class="text-primary">having</span> good qualities, <span class="text-success">he</span> was quite stubborn.
+            </p>
+            <hr>
+            6. The organizers must display a great number of goods in a minimum space.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_6" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; A great number .....
+                </a>
+            </p>
+            <p class="collapse" id="for_6">
+                A great number of goods <span class="text-primary">are displayed</span> in a minimum space <span class="text-success">by the organizers</span>.
+            </p>
+            <hr>
+            7. He was so rich that he did not care about the high cost of living.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_7" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; He was too .....
+                </a>
+            </p>
+            <p class="collapse" id="for_7">
+                He was <span class="text-primary">too rich</span> <span class="text-success">to care</span> about the high cost of living.
+            </p>
+            <hr>
+            8. Neither Ko Ko nor Nyi Nyi eats beef.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_8" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Not only .....
+                </a>
+            </p>
+            <p class="collapse" id="for_8">
+                <span class="text-primary">Not only</span> <span class="text-success">Ko Ko</span> <span class="text-primary">but also</span> <span class="text-success">Nyi Nyi</span> <span class="text-secondary">does not eat</span> beef.
+            </p>
+            <hr>
+            9. You can save your money in the bank. If not, you can buy gold bars with it.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_9" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; You can either .....
+                </a>
+            </p>
+            <p class="collapse" id="for_9">
+                You can <span class="text-primary">either</span> <span class="text-success">save your money in the bank</span> <span class="text-primary">or</span> <span class="text-success">buy gold bars with it</span>.
+            </p>
+            <hr>
+            10. Greenland is the biggest island in the world.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_10" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; There is no .....
+                </a>
+            </p>
+            <p class="collapse" id="for_10">
+                There is no <span class="text-primary">island in the world</span> <span class="text-success">as big as</span> Greenland.
+            </p>
+            <hr>
+            <p class="text-center"><span class="text-primary font-weight-bold">Matric Grammar Helper by Win Zaw Tun ( Mogok )
+            <hr>
+        </div>
+
+      </div>
+    </body>
+
+</html>

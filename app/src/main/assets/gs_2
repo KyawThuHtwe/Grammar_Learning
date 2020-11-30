@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="patterns.css">
+        <title>Action Verbs</title>
+        <style>
+            @font-face {
+                font-family: mmfont;
+                src:
+                    url("file:///android_asset/fonts/Pyidaungsu-Regular.ttf"),
+                    url("file:///android_asset/fonts/Pyidaungsu-Bold.ttf");
+            }
+
+            html *{
+                font-family: mmfont;
+                font-size: 0.9rem;
+            }     
+            hr.dash {
+                border-top: 1px dashed red;
+            }
+            hr.solid {
+                border-top: 0.7px solid grey;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <br>
+            <p class="text-center text-primary" style="font-size: 1.35rem;">ဖတ်ခဲ့ရသောစာအုပ်များမှ ဝါကျအလှများ ( ၂ )</p>
+            <br>       
+            <br>
+            <div class="card">
+                <div class="card-body">
+                    &#9726; It's Friday night in Ikebukuro, a Tokyo entertainment district full of cheap bars and pachinko parlors. As the office workers head to their favorite watering holes, three salarymen split from the crowd and enter a decrepit building that stands between a karaoke lounge and a tavern. Ignoring the sounds of sirens, drunken crooning and breaking glass outside, Hidetoshi Seki, Takashi Kudo and Yuji Yano huddle in a tiny room just big enough for a table for four, and open their Chinese textbooks. For the next 50 minutes the trio, all from a small trading company, practice describing their favorite foods and hobbies in Mandarin. Despite their crumpled shirts and five o'clock shadows, they are having a blast. The young female instructor at B-Chinese Language School indulges them as they crack jokes and make fun of each others' muddled pronunciation. Their language classes are the first lessons that any of them have taken since childhood, says Yano, 39. "We sort of unanimously agreed that Chinese would be a useful skill to acquire."<br>
+                    <br>
+                    (Time Magazine - June 26, 2006)
+                </div>
+            </div>
+            <br>
+            <br>
+            <p>
+                It's Friday night in Ikebukuro<br>
+                အီခေးဘုခုရိုရဲ့ သောကြာနေ့ညချမ်းလေးဖြစ်ပါတယ် ( အီခေးဘုခုရိုဟာ ဘာလဲ )<br>
+                <br>
+                a Tokyo entertainment district full of cheap bars and pachinko parlors<br>
+                စျေးချိုတဲ့ဘားတွေနဲ့ ဂိမ်းဆိုင်တွေအပြည့်ရှိတဲ့ တိုကျိုမြို့ရဲ့ ဖျော်ဖြေရေးအချက်အချာကျရာနေရာတစ်ခုဖြစ်တဲ့ ( အီခေးဘုခုရို )<br>
+                <br>
+                ( "Ikebukuro" ဟာ တိုကျိုမြို့က ရပ်ကွက်တစ်ခုဖြစ်ပါတယ်... သောကြာနေ့ညဆိုတော့ နောက်နေ့ရုံးပိတ်ရက်ဖြစ်လို့ ဘားတွေ ဂိမ်းဆိုင်တွေမှာ စည်ကားနေတာကို ပြောချင်လို့ "It's Friday night in Ikebukuro" လို့ ပြောတာဖြစ်ပါတယ်... "pachinko" ဆိုတာက ဂျပန်ကနေယူထားတဲ့စကားလုံးဖြစ်ပြီး ဘောလုံးလေးတွေကို အောက်မကျအောင် တုတ်ချောင်းလေးနဲ့ရိုက်ပြီး အပေါ်ရောက်အောင်ဆော့ရတဲ့ ကစားနည်းတစ်ခုဖြစ်ပါတယ်... "pachinko parlor" ဆိုတာ အဲဒီလို ဂိမ်းစက်တွေ အများကြီးထားထားတဲ့ ဆိုင်ခန်းတွေကို ခေါ်တာဖြစ်ပါတယ်... "parlor" က <span class="text-primary">US English</span> ဖြစ်ပြီး <span class="text-primary">British English</span> မှာ "parlour" လို့ စာလုံးပေါင်းပါတယ် )
+            </p>
+            <br>
+            <br>
+            <p>
+                အခုဝါကျလေးကို အစကနေ ပြန်ကောက်ကြည့်ရအောင်
+            </p>
+            <div class="card">
+                <div class="card-body">
+                    It's Friday night in Ikebukuro, a Tokyo entertainment district full of cheap bars and pachinko parlors.
+                    <hr class="dash2">
+                    စျေးချိုတဲ့ဘားတွေနဲ့ ဂိမ်းဆိုင်တွေအပြည့်ရှိတဲ့ တိုကျိုမြို့ရဲ့ ဖျော်ဖြေရေးအချက်အချာကျရာနေရာတစ်ခုဖြစ်တဲ့ အီခေးဘုခုရိုရဲ့ သောကြာနေ့ညချမ်းလေးဖြစ်ပါတယ်
+                </div>
+            </div>
+            <br>
+            <p>
+               အခုဝါကျလေးကို ခွဲခြမ်းစိတ်ဖြာကြည့်ရအောင် 
+            </p>
+            <div class="card">
+                <div class="card-body">
+                    အခုဝါကျမှာ <span class="text-primary">subject</span> က "It" ဖြစ်ပါတယ်... "It" ကို <span class="text-primary">empty subject</span> အဖြစ် သုံးထားခြင်းဖြစ်ပါတယ်... "It" ကို အချိန်၊ ရာသီဥတု၊ အကွာအဝေးတွေကိုဖော်ပြဖို့အတွက် <span class="text-primary">empty subject</span> အဖြစ် သုံးပါတယ်... "Ikebukuro, a Tokyo entertainment district full of cheap bars and pachinko parlors" ဆိုတာက <span class="text-primary">nouns in apposition</span> ဖြစ်ပါတယ်... "Ikebukuro" ဟာ ဘာလဲဆိုတာကို ဖြည့်စွက်ဖော်ပြပေးပါတယ်                
+                </div>
+            </div>
+            <br>
+            <br>
+            <br>
+            <p>
+                As the office workers head to their favorite watering holes<br>
+                ရုံးဝန်ထမ်းတွေဟာ သူတို့အကြိုက်ဆုံး အရက်ဆိုင်တွေဆီ သွားနေကြစဥ်မှာ<br>
+                <br>
+                ( "head" ဟာ တစ်နေရာရာကို ဦးတည်သွားတာကို ဆိုလိုတာဖြစ်ပါတယ်... "watering hole" ဆိုတာ တိရစ္ဆာန်တွေ ရေသွားသောက်ကြတဲ့နေရာကိုခေါ်တာပါ... ရယ်စရာအသုံးအဖြစ် အရက်ဆိုင်လို့ အဓိပ္ပါယ်ရပါတယ် )
+            </p>                    
+            <br>
+            <p>
+                three salarymen split from the crowd<br>
+                ရုံးဝန်ထမ်းသုံးဦးဟာ လူအုပ်ထဲကနေ ခွဲထွက်လိုက်ကြတယ်<br>
+                <br>
+                ( "salaryman" ဆိုတာ ဂျပန်နိုင်ငံက ရုံးဝန်ထမ်းကို ခေါ်တာဖြစ်ပါတယ် )
+            </p>
+            <br>
+            <br>
+            <p>
+                and enter a decrepit building that stands between a karaoke lounge and a tavern<br>
+                ပြီးတော့ ကာရာအိုကေခန်းနဲ့ အရက်ဆိုင်ကြားမှာရှိတဲ့ အဆောက်အအုံဟောင်းတစ်ခုထဲ ဝင်သွားကြတယ်<br>
+                <br>
+                ( "decrepit" က အိုမင်းဟောင်းနွမ်းနေသောလို့ အဓိပ္ပါယ်ရပါတယ်... "tavern" က အရက်ဆိုင်အပြင် ထမင်းဆိုင်လို့လည်း အဓိပ္ပါယ်ရပါတယ် )<br>
+                <br>
+            </p>
+            <p>
+                အခုဝါကျလေးကို အစကနေ ပြန်ကောက်ကြည့်ရအောင်
+            </p>
+            <div class="card">
+                <div class="card-body">
+                    As the office workers head to their favorite watering holes, three salarymen split from the crowd and enter a decrepit building that stands between a karaoke lounge and a tavern.
+                    <hr class="dash2">
+                    ရုံးဝန်ထမ်းတွေဟာ သူတို့အကြိုက်ဆုံး အရက်ဆိုင်တွေဆီ သွားနေကြစဥ်မှာ ရုံးဝန်ထမ်းသုံးဦးဟာ လူအုပ်ထဲကနေ ခွဲထွက်လိုက်ကြပြီး ကာရာအိုကေခန်းနဲ့ အရက်ဆိုင်ကြားမှာရှိတဲ့ အဆောက်အအုံဟောင်းတစ်ခုထဲ ဝင်သွားကြတယ်
+                </div>
+            </div>
+            <br>
+            <p>
+               အခုဝါကျလေးကို ခွဲခြမ်းစိတ်ဖြာကြည့်ရအောင် 
+            </p>
+            <div class="card">
+                <div class="card-body">
+                    "As the office workers head to their favorite watering holes" ဆိုတဲ့ဝါကျမှာ "as" ဟာ "while" အဓိပ္ပါယ်နဲ့ သုံးထားတာဖြစ်ပါတယ်... ယခုဝါကျဟာ <span class="text-primary">compound-complex sentence</span> တစ်ကြောင်းဖြစ်ပါတယ်... "three salarymen split from the crowd" နဲ့ "(they) enter a decrepit building that stands between a karaoke lounge and a tavern." တို့ဟာ <span class="text-primary">independent clause</span> ဖြစ်ပြီး "As the office workers head to their favorite watering holes" ဟာ <span class="text-primary">dependent clause (or) subordinate clause</span> ဖြစ်ပါတယ်... "that stands between a karaoke lounge and a tavern" ဟာ "a building" ကို အထူးပြုထားတဲ့ <span class="text-primary">defining relative clause</span> ဖြစ်ပါတယ်
+                </div>
+            </div>
+            <br>
+            <br>
+            <br>
+            <p>
+                Ignoring the sounds of sirens, drunken crooning and breaking glass outside<br>
+                အချက်ပေးဥသြသံ မူးမူးနဲ့သီချင်းဆိုသံ အပြင်ဘက်က မှန်ကွဲသံတွေကို လျစ်လျူရှုပြီး<br>
+                <br>
+                ( "siren" က ရဲကား မီးသတ်ကားနဲ့ လူနာတင်ကားတွေရဲ့ အချက်ပေးဥသြသံကိုပြောတာဖြစ်ပါတယ်... <span class="text-primary">drunken + Noun</span> ဟာ မူးနေစဥ်တစ်ခုခုလုပ်တာကိုဖော်ပြပါတယ်... e.g. "drunken laughter"... "croon" ဆိုတာ သီချင်းတိုးတိုးလေးဆိုညည်းတာကိုပြောတာဖြစ်ပါတယ် )<br>
+                <br>
+                Hidetoshi Seki, Takashi Kudo and Yuji Yano huddle in a tiny room just big enough for a table for four, and open their  Chinese textbooks.<br>
+                ဆေးခိဟီဒေ့တိုရှိ ခုဒိုတာ့ကာရှိနဲ့ ယာနိုယူးဂျိတို့ဟာ လူလေးယောက်စာစားပွဲတစ်လုံးဆံ့ရုံလောက်သာရှိတဲ့ အခန်းငယ်လေးထဲမှာ တိုးဝှေ့ပူးကပ်နေကြပြီး သူတို့ရဲ့ တရုတ်ဘာသာဖတ်စာအုပ်တွေဖွင့်လိုက်ကြတယ်                
+            </p>
+            <p>
+                အခုဝါကျလေးကို အစကနေ ပြန်ကောက်ကြည့်ရအောင်
+            </p>
+            <div class="card">
+                <div class="card-body">
+                    Ignoring the sounds of sirens, drunken crooning and breaking glass outside, Hidetoshi Seki, Takashi Kudo and Yuji Yano huddle in a tiny room just big enough for a table for four, and open their Chinese textbooks.
+                    <hr class="dash2">
+                    အချက်ပေးဥသြသံ မူးမူးနဲ့သီချင်းဆိုသံ အပြင်ဘက်က မှန်ကွဲသံတွေကို လျစ်လျူရှုပြီး ဆေးခိဟီဒေ့တိုရှိ ခုဒိုတာ့ကာရှိနဲ့ ယာနိုယူးဂျိတို့ဟာ လူလေးယောက်စာစားပွဲတစ်လုံးဆံ့ရုံလောက်သာရှိတဲ့ အခန်းငယ်လေးထဲမှာ တိုးဝှေ့ပူးကပ်နေကြပြီး သူတို့ရဲ့ တရုတ်ဘာသာဖတ်စာအုပ်တွေဖွင့်လိုက်ကြတယ်
+                </div>
+            </div>
+            <br>
+            <p>အခုဝါကျလေးကို ခွဲခြမ်းစိတ်ဖြာကြည့်ရအောင်</p>
+            <div class="card">
+                <div class="card-body">
+                    "Ignoring the sounds of sirens, drunken crooning and breaking glass outside" ဟာ <span class="text-primary">participle clause</span> ဖြစ်ပြီး <span class="text-primary">adverb</span> အလုပ်ကို လုပ်ဆောင်ပါတယ်... "Hidetoshi Seki, Takashi Kudo and Yuji Yano" က "huddle" ဆိုတဲ့ ကံမလိုကြိယာရဲ့ <span class="text-primary">subject</span> ဖြစ်ပါတယ်... နောက်ဝါကျက "their Chinese textbooks" ဟာ "open" ရဲ့ <span class="text-primary">object</span> ဖြစ်ပါတယ်
+                </div>
+            </div>
+            <br>
+            <br>
+            <p>
+                For the next 50 minutes the trio, all from a small trading company,<br>
+                နောက်မိနစ်ငါးဆယ်လောက်အထိ ကုန်သွယ်ရေးကုမ္ပဏီလေးတစ်ခုမှာအလုပ်လုပ်ကြတဲ့ သူတို့သုံးဦးဟာ<br>
+                <br>
+                "trio" ဟာ သုံးယောက်တွဲသီဆိုဖျော်ဖြေတဲ့ ဂီတပညာရှင်လို့ အဓိပ္ပါယ်ရသလို လူသုံးဦး/အရာဝတ္ထုသုံးခုလို့လည်း အဓိပ္ပါယ်ရပါတယ်<br>
+                <br>
+                practice describing their favorite foods and hobbies in Mandarin.<br>
+                သူတို့အကြိုက်ဆုံးအစားအစာနဲ့ ဝါသနာတွေကို တရုတ်စကားနဲ့အပြောလေ့ကျင့်ကြပါတယ်<br>
+                <br>
+                <span class="text-primary">practice + V-ing</span> အသုံးလေးကို သတိပြုမှတ်သားပါ... <span class="text-primary">US English</span> မှာ "practice" ကို <span class="text-primary">verb</span> အနေနဲ့ကော <span class="text-primary">noun</span> အနေနဲ့ပါအသုံးပြုပါတယ်... <span class="text-primary">British English</span> မှာတော့ "practice" ဟာ <span class="text-primary">noun</span> ဖြစ်ပြီး "practise" က <span class="text-primary">verb</span> ဖြစ်ပါတယ်... "Mandarin" က ကမ္ဘာသုံးတရုတ်စကားဖြစ်ပါတယ်
+            </p>
+            <p>
+                အခုဝါကျလေးကို အစကနေ ပြန်ကောက်ကြည့်ရအောင်
+            </p>
+            <div class="card">
+                <div class="card-body">
+                    For the next 50 minutes the trio, all from a small trading company, practice describing their favorite foods and hobbies in Mandarin.
+                    <hr class="dash2">
+                    နောက်မိနစ်ငါးဆယ်လောက်အထိ ကုန်သွယ်ရေးကုမ္ပဏီလေးတစ်ခုမှာအလုပ်လုပ်ကြတဲ့ သူတို့သုံးဦးဟာ သူတို့အကြိုက်ဆုံးအစားအစာနဲ့ ဝါသနာတွေကို တရုတ်စကားနဲ့အပြောလေ့ကျင့်ကြပါတယ်
+                </div>
+            </div>
+            <br>
+            <p>အခုဝါကျလေးကို ခွဲခြမ်းစိတ်ဖြာကြည့်ရအောင်</p>
+            <div class="card">
+                <div class="card-body">
+                    "the trio, all from a small trading company," က <span class="text-primary">practice</span> ရဲ့ <span class="text-primary">subject</span> ဖြစ်ပါတယ်... "all from a small trading company" က "the trio" ကို အထူးပြုထားတဲ့ <span class="text-primary">adjective phrase</span> ဖြစ်ပါတယ်...  "describing" ဟာ "practice" ရဲ့ <span class="text-primary">object</span> ဖြစ်ပြီး "their favorite foods and hobbies" က ကြိယာနာမ်(<span class="text-primary">gerund</span>) ဖြစ်တဲ့ "describing" ရဲ့ <span class="text-primary">object</span>ဖြစ်ပါတယ်
+                </div>
+            </div>
+            <br>
+            <br>
+            <p>
+                Despite their crumpled shirts and five o'clock shadows, they are having a blast.<br>
+                သူတို့ရှပ်အင်္ကျီတွေတွန့်ကြေပြီး ညနေပိုင်းပြန်ထွက်လာတဲ့မုတ်ဆိတ်မွေးတွေနဲ့ဖြစ်နေပေမယ့် သူတို့ဟာ ပျော်နေကြပါတယ်<br>
+                <br>
+                "despite" ဟာ "in spite of" နဲ့ အဓိပ္ပါယ်တူပါတယ်... သူတို့နောက်မှာ <span class="text-primary">noun/noun phrase</span> လိုက်ပါတယ်... "crumpled" ဟာ <span class="text-primary">past participle adjective</span> ဖြစ်ပါတယ်... "five o'clock shadow" ဆိုတာ မနက်မုတ်ဆိတ်ရိတ်ပြီးနောက် ညနေပိုင်းမှာပြန်ထွက်လာတဲ့မုတ်ဆိတ်ငုတ်စိလေးတွေကိုပြောတာဖြစ်ပါတယ်... "blast" က ပျော်ရွှင်စိတ်လှုပ်ရှားဖွယ်ကောင်းတဲ့အတွေ့အကြုံလို့ အဓိပ္ပါယ်ရပါတယ်
+            </p>
+            <p>အခုဝါကျလေးကို ခွဲခြမ်းစိတ်ဖြာကြည့်ရအောင်</p>
+            <div class="card">
+                <div class="card-body">
+                    "Despite their crumpled shirts and five o'clock shadows" က <span class="text-primary">adverb phrase</span> ဖြစ်ပြီး "they" က "are having" ရဲ့ <span class="text-primary">subject</span> ဖြစ်ပါတယ်... "a blast" ဟာ "are having" ရဲ့ <span class="text-primary">object</span> ဖြစ်ပါတယ်
+                </div>
+            </div>
+            <br>
+            <br>
+            <p>
+                The young female instructor at B-Chinese Language School indulges them<br>
+                B တရုတ်ကျောင်းက ဆရာမငယ်ငယ်လေးက သူတို့ကို အလိုလိုက်ထားတယ်<br>
+                <br>
+                "B-Chinese Language School" ဆိုတော့ ကျောင်းနာမည်က ရိုးရိုးရှင်းရှင်း "B" ပဲပေါ့... "indulge" က အလိုလိုက်တာ လုပ်ချင်ရာလုပ်ခွင့်ပြုထားတာကိုပြောတာဖြစ်ပါတယ်<br>
+                <br>
+                as they crack jokes and make fun of each others' muddled pronunciation.<br>
+                သူတို့ ဟာသတွေပြော သူတို့တစ်ယောက်စီရဲ့ မပီမသအသံထွက်တွေကို ပြောင်နေကြတဲ့အခါ<br>
+                <br>
+                ( ဟာသပြောတာကို "tell/make/crack a joke" လို့ သုံးပါတယ်... "make fun of someone" ဆိုတာက တစ်စုံတစ်ယောက်ကို လှောင်ပြောင်တာကိုပြောတဖြစ်ပါတယ်... "as" က "while" အဓိပ္ပါယ်နဲ့သုံးထားတာဖြစ်ပါတယ် )
+            </p>
+            <p>
+                အခုဝါကျလေးကို အစကနေ ပြန်ကောက်ကြည့်ရအောင်
+            </p>
+            <div class="card">
+                <div class="card-body">
+                    The young female instructor at B-Chinese Language School indulges them as they crack jokes and make fun of each others' muddled pronunciation.
+                    <hr class="dash2">
+                    သူတို့ ဟာသတွေပြော သူတို့တစ်ယောက်စီရဲ့ မပီမသအသံထွက်တွေကို ပြောင်နေကြတဲ့အခါ B တရုတ်ကျောင်းက ဆရာမငယ်ငယ်လေးက သူတို့ကို အလိုလိုက်ထားတယ်
+                </div>
+            </div>
+            <br>
+            <br>
+            <p>အခုဝါကျလေးကို ခွဲခြမ်းစိတ်ဖြာကြည့်ရအောင်</p>
+            <div class="card">
+                <div class="card-body">
+                    "The young female instructor at B-Chinese Language School" က "indulge" ရဲ့ <span class="text-primary">subject</span> ဖြစ်ပြီး "them" က "indulge" ရဲ့ <span class="text-primary">object</span> ဖြစ်ပါတယ်... "as" က "while" လို့ အဓိပ္ပါယ်ရတဲ့ စကားဆက်ဖြစ်ပါတယ်... "they" ဟာ "crack" ရဲ့ <span class="text-primary">subject</span> ဖြစ်ပြီး "jokes" က "crack" ရဲ့ <span class="text-primary">object</span> ဖြစ်ပါတယ်... "make fun of someone" က <span class="text-primary">idiom</span> ဖြစ်ပါတယ်
+                </div>
+            </div>
+            <br>
+            <br>
+            <p>
+                Their language classes are the first lessons that any of them have taken since childhood, says Yano, 39.<br>
+                သူတို့(အခုသင်နေတဲ့)ဘာသာစကားသင်တန်းဟာ ငယ်ကတည်းကအခုချိန်ထိ ပထမဆုံးတက်ဖူးတဲ့သင်တန်းဖြစ်တယ်လို့ 39 နှစ်ရှိပြီဖြစ်တဲ့ ယာနိုက ပြောပါတယ်<br>
+                <br>
+                အခုဝါကျမှာ တစ်စုံတစ်ခုကို ပထမဆုံးလုပ်ဖူးတာကို the first + Noun နဲ့ <span class="text-primary">present perfect</span> သုံးရပုံကို လေ့လာကြည့်နိုင်ပါတယ်
+            </p>
+            <br>
+            <br>
+            <p>အခုဝါကျလေးကို ခွဲခြမ်းစိတ်ဖြာကြည့်ရအောင်</p>
+            <div class="card">
+                <div class="card-body">
+                    "Their language classes(<span class="text-primary">subject</span>)" + "are(<span class="text-primary">verb</span>)" + "the first lessons(<span class="text-primary">complement</span>)" ပုံစံဖြစ်တာကို သတိထားကြည့်ပါ... "that any of them has taken since childhood" က "the first lessons" ကို အထူးပြုထားတဲ့ <span class="text-primary">defining relative clause</span> ဖြစ်ပါတယ်... "Yano, 39, says that... " လို့ မရေးဘဲ ပြောသူကိုအနောက်ပို့ပြီး "says Yano, 39" လို့ ရေးထားပါတယ်
+                </div>
+            </div>
+            <br>
+            <br>
+            <p>
+                "We sort of unanimously agreed that Chinese would be a useful skill to acquire."<br>
+                တရုတ်ဘာသာစကားဟာ သင်ယူထားရမယ့် အသုံးဝင်တဲ့စွမ်းရည်တစ်ခုဖြစ်တယ်လို့ ကျွန်တော်တို့ တညီတညွတ်တည်းသဘောတူထားကြတယ်<br>
+                <br>
+                "sort of" ဟာ ဒီနေရာမှာ "unanimously" ကို အထူးပြုပြီး နီးပါး လို့ အဓိပ္ပါယ်ရပါတယ်... သုံးယောက်သင်ကြတယ် ယာနိုကပြောပြနေတာဆိုတော့ သုံးယောက်လုံး "agree" ဖြစ်တာ မသေချာတဲ့သဘောကိုဆောင်နေပါတယ်
+            <br>
+            </p>
+            <br>
+            <br>
+            <p>အခုဝါကျလေးကို ခွဲခြမ်းစိတ်ဖြာကြည့်ရအောင်</p>
+            <div class="card">
+                <div class="card-body">
+                    "we" က "agreed" ရဲ့ <span class="text-primary">subject</span> ဖြစ်ပါတယ်...  "that Chinese would be a useful skill to acquire" က "agreed" ရဲ့ <span class="text-primary">object</span> ဖြစ်ပြီး <span class="text-primary">noun clause</span> ဖြစ်ပါတယ်
+                </div>
+            </div>
+            <br>
+            <br>
+            <div><span class="text-primary font-weight-bold">Source :</span>
+                <span class="font-weight-bold">Time magazine</span></div>
+            <hr>
+            <p class="text-center"><span class="text-primary font-weight-bold">Matric Grammar Helper by Win Zaw Tun ( Mogok )</span></p>
+            <hr>
+        </div>
+    </body>
+</html>

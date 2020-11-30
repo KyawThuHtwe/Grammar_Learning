@@ -1,13 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Fragments.QuizFragment">
+    tools:context=".Fragments.quizFragment">
 
-    <ListView
-        android:id="@+id/quiz_list"
+    <TextView
+        android:layout_margin="80dp"
+        android:gravity="center"
+        android:textAllCaps="true"
+        android:textSize="35sp"
+        android:textColor="@color/colorPrimary"
+        android:text="Quiz ?"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"/>
+        android:layout_height="wrap_content"/>
+    <LinearLayout
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ImageView
+            android:src="@drawable/grade"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            app:tint="@color/colorAccent" />
+        <ImageView
+            android:src="@drawable/grade"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            app:tint="@color/colorAccent" />
+        <ImageView
+            android:src="@drawable/grade"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            app:tint="@color/colorAccent" />
+
+    </LinearLayout>
+    <Button
+        android:id="@+id/start"
+        android:layout_margin="30dp"
+        android:layout_gravity="bottom"
+        android:elevation="10dp"
+        android:background="@color/colorPrimary"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:textColor="@color/colorWhite"
+        android:text="Start" />
 
 </FrameLayout>

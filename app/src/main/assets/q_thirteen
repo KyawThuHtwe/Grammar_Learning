@@ -1,0 +1,1189 @@
+<!DOCTYPE html>
+<meta charset="utf-8"/>
+
+<html>
+
+    <head>
+      <link rel="stylesheet" type="text/css" href="patterns.css">
+      <style>
+
+          @font-face {
+            font-family: mmfont;
+            src:
+                    url("file:///android_asset/fonts/Pyidaungsu-Regular.ttf"),
+                    url("file:///android_asset/fonts/Pyidaungsu-Bold.ttf");
+          }
+
+          html *{
+              font-family: "mmfont";
+              font-size: 0.9rem;
+          }
+
+      </style>
+      <script src="jquery.min.js"></script>
+      <script src="bootstrap.min.js"></script>
+      <title>Old Questions</title>
+    </head>
+
+    <body>
+      <div class="container">
+            <br>
+        <p class="text-center text-primary" style="font-weight: bold; font-size: 1.35rem;">2014 Old Questions</p>
+        <br>
+        <p  class="text-success">ရန်ကုန်</p>
+        <div>
+            1. I have read all the books on my bookshelf.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#ygn_1" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; There is no .....
+                </a>
+            </p>
+            <p class="collapse" id="ygn_1">
+                There is no <span class="text-primary">book on my bookshelf</span> <span class="text-success">that</span> I <span class="text-secondary">have not read</span>.
+            </p>
+            <hr>
+            2. Mar Mar said to me, "When will you go abroad?".<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#ygn_2" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Mar Mar asked .....
+                </a>
+            </p>
+            <p class="collapse" id="ygn_2">
+                Mar Mar asked me when <span class="text-primary">I</span> <span class="text-success">would go</span> abroad.
+            </p>
+            <hr>
+            3. The weather was too hot for the children to go for a swim.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#ygn_3" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; The weather was so .....
+                </a>
+            </p>
+            <p class="collapse" id="ygn_3">
+                The weather was <span class="text-primary">so hot that</span> <span class="text-success">the children</span> <span class="text-secondary">could not go</span> for a swim.
+            </p>
+            <hr>
+            4. He did his homework and then watched TV.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#ygn_4" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Having .....
+                </a>
+            </p>
+            <p class="collapse" id="ygn_4">
+                <span class="text-primary">Having done</span> his homework, <span class="text-success">he</span> watched TV.
+            </p>
+            <hr>
+            5. Unless you study hard, you will fail in the examination.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#ygn_5" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; If .....
+                </a>
+            </p>
+            <p class="collapse" id="ygn_5">
+                If you <span class="text-primary">study</span> hard, you <span class="text-success">won't fail</span> in the examination.<br>
+                (OR)
+                If you <span class="text-primary">don't study</span> hard, you <span class="text-success">will fail</span> in the examination.
+            </p>
+            <hr>
+            6. As soon as he heard the news, he shouted with joy.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#ygn_6" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; No sooner .....
+                </a>
+            </p>
+            <p class="collapse" id="ygn_6">
+                No sooner <span class="text-primary">did</span> <span class="text-success">he</span> <span class="text-primary">hear</span> the news <span class="text-secondary">than</span> he shouted with joy.
+            </p>
+            <hr>
+            7. Hla Maung took my book but he didn't ask for my permission.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#ygn_7" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Without .....
+                </a>
+            </p>
+            <p class="collapse" id="ygn_7">
+                Without <span class="text-primary">asking</span> for my permission, <span class="text-success">Hla Maung</span> took my book.
+            </p>
+            <hr>
+            8. Have you ever been to Pyin Oo Lwin? It is a famous summer resort.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#ygn_8" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Have you .....
+                </a>
+            </p>
+            <p class="collapse" id="ygn_8">
+                Have you ever been to <span class="text-primary">Pyin Oo Lwin</span>, <span class="text-success">a famous summer resort</span>?
+            </p>
+            <hr>
+            9. When the fire brigade arrived, the building had almost burnt down.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#ygn_9" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; By the time .....
+                </a>
+            </p>
+            <p class="collapse" id="ygn_9">
+                <span class="text-primary">By the time</span> the fire brigade arrive, the building had almost burnt down.
+            </p>
+            <hr>
+            10. Many beautiful old buildings are being replaced by modern buildings.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#ygn_10" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Modern buildings .....
+                </a>
+            </p>
+            <p class="collapse" id="ygn_10">
+                Modern buildings <span class="text-primary">are replacing</span> <span class="text-success">many beautiful old buildings</span>.
+            </p>
+            <hr>
+        </div>
+        <p  class="text-success">မန္တလေး</p>
+        <div>
+            1. Asians eat more rice than Europeans.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mdy_1" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Europeans .....
+                </a>
+            </p>
+            <p class="collapse" id="mdy_1">
+                Europeans <span class="text-primary">do not eat as much rice</span> <span class="text-success">as the Asians</span>.
+            </p>
+            <hr>
+            2. His parents do not allow him to smoke.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mdy_2" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; He .....
+                </a>
+            </p>
+            <p class="collapse" id="mdy_2">
+                He <span class="text-primary">is not allowed</span> to smoke by his parents.
+            </p>
+            <hr>
+            3. The boys could swim. Nobody taught them.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mdy_3" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Without .....
+                </a>
+            </p>
+            <p class="collapse" id="mdy_3">
+                Without <span class="text-primary">being taught</span>, <span class="text-success">the boys</span> could swim.
+            </p>
+            <hr>
+            4. "Why were you absent yesterday, Wunna?" said the teacher.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mdy_4" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; The teacher asked .....
+                </a>
+            </p>
+            <p class="collapse" id="mdy_4">
+                The teacher asked Wunna why <span class="text-primary">he</span> <span class="text-success">had been</span> absent <span class="text-secondary">the day before</span>.
+            </p>
+            <hr>
+            5. We had just arrived home when it began to rain.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mdy_5" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; No sooner .....
+                </a>
+            </p>
+            <p class="collapse" id="mdy_5">
+                No sooner <span class="text-primary">had</span> <span class="text-success">we</span> <span class="text-primary">arrived</span> home <span class="text-secondary">than</span> it began to rain.
+            </p>
+            <hr>
+            6. Both my sister and I were not hungry.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mdy_6" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Neither of .....
+                </a>
+            </p>
+            <p class="collapse" id="mdy_6">
+                <span class="text-primary">Neither of</span> <span class="text-success">us</span> <span class="text-secondary">was</span> hungry.
+            </p>
+            <hr>
+            7. I have read all the books on this book-shelf.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mdy_7" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; There is no .....
+                </a>
+            </p>
+            <p class="collapse" id="mdy_7">
+                There is no <span class="text-primary">book on this book-shelf</span> <span class="text-success">that</span> I <span class="text-secondary">have not read</span>.
+            </p>
+            <hr>
+            8. The sum is so easy that even a child can do it.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mdy_8" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; It is such .....
+                </a>
+            </p>
+            <p class="collapse" id="mdy_8">
+                It is such <span class="text-primary">an easy sum</span> <span class="text-success">that</span> even a child can do it.
+            </p>
+            <hr>
+            9. Although the wind was strong, our plane landed safely.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mdy_9" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; In spite of .....
+                </a>
+            </p>
+            <p class="collapse" id="mdy_9">
+                In spite of <span class="text-primary">the strong wind</span>, <span class="text-success">our plane</span> landed safely.<br>
+                (OR)<br>
+                In spite of <span class="text-primary">the wind</span> <span class="text-success">being</span> strong, <span class="text-primary">our plane</span> landed safely.
+            </p>
+            <hr>
+            10. Ngapali is an attractive beach resort. We will visit there next summer.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mdy_10" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; We will visit .....
+                </a>
+            </p>
+            <p class="collapse" id="mdy_10">
+                We will visit <span class="text-primary">Ngapali</span>, <span class="text-success">an attractive beach resort</span>, next summer.
+            </p>
+            <hr>
+        </div>
+        <p  class="text-success">စစ်ကိုင်း/ ချင်း</p>
+        <div>
+            1. She spoke very softly. I could hardly hear her.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#sg_1" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; She spoke so .....
+                </a>
+            </p>
+            <p class="collapse" id="sg_1">
+                She spoke <span class="text-primary">so softly</span> <span class="text-success">that</span> I could hardly hear her.
+            </p>
+            <hr>
+            2. The manager of the hotel said to me, "My staff will do their best to make sure you enjoy your stay."<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#sg_2" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; The manager of the hotel told me that .....
+                </a>
+            </p>
+            <p class="collapse" id="sg_2">
+                The manager of the hotel told me that <span class="text-primary">his</span> staff <span class="text-success">would do</span> their best to make sure <span class="text-primary">I</span> <span class="text-success">enjoyed</span> <span class="text-primary">my</span> stay.
+            </p>
+            <hr>
+            3. The drowning man was shouting. He waved his arms frightfully.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#sg_3" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Waving .....
+                </a>
+            </p>
+            <p class="collapse" id="sg_3">
+                <span class="text-primary">Waving</span> his arms frightfully, <span class="text-success">the drowning man</span> was shouting.
+            </p>
+            <hr>
+            4. The money is kept in reserve for their retirement.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#sg_4" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; They .....
+                </a>
+            </p>
+            <p class="collapse" id="sg_4">
+                They <span class="text-primary">keep</span> <span class="text-success">the money</span> in reserve for their retirement.
+            </p>
+            <hr>
+            5. Although they have different views, they get on well with each other.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#sg_5" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; In spite of .....
+                </a>
+            </p>
+            <p class="collapse" id="sg_5">
+                In spite of <span class="text-primary">having</span> different views, <span class="text-success">they</span> get on well with each other.
+            </p>
+            <hr>
+            6. Unless you finish your homework, you cannot go out with your friends.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#sg_6" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; If .....
+                </a>
+            </p>
+            <p class="collapse" id="sg_6">
+                If you <span class="text-primary">finish</span> your homework, you <span class="text-success">can go</span> out with your friends.<br>
+                (OR)<br>
+                If you <span class="text-primary">don't finish</span> your homework, you <span class="text-success">can't go</span> out with your friends.
+            </p>
+            <hr>
+            7. He worked long hours in the cold and his hands were sore and cracked.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#sg_7" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; After .....
+                </a>
+            </p>
+            <p class="collapse" id="sg_7">
+                After <span class="text-primary">he</span> <span class="text-success">had worked</span> long hours in the cold<span class="text-primary">, his hands</span> were sore and cracked.
+            </p>
+            <hr>
+            8. If you work harder, you will get better results.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#sg_8" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Unless .....
+                </a>
+            </p>
+            <p class="collapse" id="sg_8">
+                Unless you <span class="text-primary">work</span> harder, you <span class="text-success">won't get</span> better results.
+            </p>
+            <hr>
+            9. Harvey learned and taught anatomy not from books but from dissections.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#sg_9" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; It .....
+                </a>
+            </p>
+            <p class="collapse" id="sg_9">
+                It is <span class="text-primary">Harvey</span> <span class="text-success">who</span> learned and taught anatomy not from book but from dissections.
+            </p>
+            <hr>
+            10. As soon as WHO adopted a new policy of using traditional medicine, it became popular especially in developing countries.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#sg_10" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; No sooner .....
+                </a>
+            </p>
+            <p class="collapse" id="sg_10">
+                No sooner <span class="text-primary">did</span> <span class="text-success">WHO</span> <span class="text-primary">adopt</span> a new policy of using traditional medicine <span class="text-secondary">than</span> it became popular especially in developing countries.
+            </p>
+            <hr>
+        </div>
+        <p  class="text-success">ကချင်</p>
+        <div>
+            1. The teacher said to the class," Stand up."<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#kch_1" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; The teacher told .....
+                </a>
+            </p>
+            <p class="collapse" id="kch_1">
+                The teacher told the class <span class="text-primary">to stand</span> up.
+            </p>
+            <hr>
+            2. Cho Cho may have come here or Nyo Nyo may have come here.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#kch_2" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Either .....
+                </a>
+            </p>
+            <p class="collapse" id="kch_2">
+                <span class="text-primary">Either</span> <span class="text-success">Cho Cho</span> <span class="text-primary">or</span> <span class="text-success">Nyo Nyo</span> may have come here.
+            </p>
+            <hr>
+            3. The woman is not strong enough to stand up.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#kch_3" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; The woman is too .....
+                </a>
+            </p>
+            <p class="collapse" id="kch_3">
+                The woman is <span class="text-primary">too weak</span> to stand up.
+            </p>
+            <hr>
+            4. Every flower in the National Park looks beautiful.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#kch_4" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; There is no .....
+                </a>
+            </p>
+            <p class="collapse" id="kch_4">
+                There is no <span class="text-primary">flower in the National Park</span> <span class="text-success">that</span> <span class="text-secondary">does not look</span> beautiful.
+            </p>
+            <hr>
+            5. If you work harder, you will succeed more.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#kch_5" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; The .....
+                </a>
+            </p>
+            <p class="collapse" id="kch_5">
+                <span class="text-primary">The harder</span> <span class="text-success">you work</span>, <span class="text-primary">the more</span> <span class="text-success">you will succeed</span>.
+            </p>
+            <hr>
+            6. I cleaned the house and so did May.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#kch_6" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Both .....
+                </a>
+            </p>
+            <p class="collapse" id="kch_6">
+                <span class="text-primary">Both</span> <span class="text-success">May</span> <span class="text-primary">and</span> <span class="text-success">I</span> cleaned the house.
+            </p>
+            <hr>
+            7. My friend speaks English much better than I do.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#kch_7" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; I do not .....
+                </a>
+            </p>
+            <p class="collapse" id="kch_7">
+                I <span class="text-primary">do not speak English</span> <span class="text-success">as well as</span> my friend.
+            </p>
+            <hr>
+            8. Bagan is an ancient city. We will visit Bagan this summer.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#kch_8" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; We .....
+                </a>
+            </p>
+            <p class="collapse" id="kch_8">
+                We will visit <span class="text-primary">Bagan</span>, <span class="text-success">an ancient city</span>, this summer.
+            </p>
+            <hr>
+            9. The receptionist is ill. She works at the lawyer's office.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#kch_9" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; The receptionist who .....
+                </a>
+            </p>
+            <p class="collapse" id="kch_9">
+                <span class="text-primary">The receptionist</span> <span class="text-success">who works at the lawyer's office</span> is ill.
+            </p>
+            <hr>
+            10. Though the weather was hot, the students continued playing football.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#kch_10" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; In spite of .....
+                </a>
+            </p>
+            <p class="collapse" id="kch_10">
+                In spite of <span class="text-primary">the hot weather</span>, <span class="text-success">the students</span> continued playing football.<br>
+                (OR)<br>
+                In spite of <span class="text-primary">the weather</span> <span class="text-success">being</span> hot, <span class="text-success">the students</span> continued playing football.
+            </p>
+            <hr>
+        </div>
+        <p  class="text-success">ပဲခူး</p>
+        <div>
+            1. This pen is not mine. It is not hers.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#bgo_1" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; This pen is neither .....
+                </a>
+            </p>
+            <p class="collapse" id="bgo_1">
+                This pen is <span class="text-primary">neither</span> <span class="text-success">mine</span> <span class="text-primary">nor</span> <span class="text-success">hers</span>.         
+            </p>
+            <hr>
+            2. When mother had finished the washing, she started knitting.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#bgo_2" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Having .....
+                </a>
+            </p>
+            <p class="collapse" id="bgo_2">
+                <span class="text-primary">Having finished</span> the washing, <span class="text-success">mother</span> started knitting.        
+            </p>
+            <hr>
+            3. The manager came into the office. Nobody saw him.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#bgo_3" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Without .....
+                </a>
+            </p>
+            <p class="collapse" id="bgo_3">
+                Without <span class="text-primary">being seen</span>, <span class="text-success">the manager</span> came into the office.            
+            </p>
+            <hr>
+            4. Pyin Oo Lwin is a beautiful hill resort. We will visit there next summer.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#bgo_4" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; We will visit .....
+                </a>
+            </p>
+            <p class="collapse" id="bgo_4">
+                We will visit <span class="text-primary">Pyin Oo Lwin</span>, <span class="text-success">a beautiful hill resort</span>, next summer.             
+            </p>
+            <hr>
+            5. The question was so difficult that no one could answer it.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#bgo_5" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; It was such .....
+                </a>
+            </p>
+            <p class="collapse" id="bgo_5">
+                It was such <span class="text-primary">a difficult question</span> <span class="text-success">that</span> no one could answer it.          
+            </p>
+            <hr>
+            6. My sister has washed and ironed all the shirts in this basket.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#bgo_6" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; There is no .....
+                </a>
+            </p>
+            <p class="collapse" id="bgo_6">
+                There is no <span class="text-primary">shirt in this basket</span> <span class="text-success">that</span> my sister <span class="text-secondary">has not washed</span>.
+            </p>
+            <hr>
+            7. We had just arrived home when it began to rain.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#bgo_7" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; No sooner .....
+                </a>
+            </p>
+            <p class="collapse" id="bgo_7">
+                No sooner <span class="text-primary">had</span> <span class="text-success">we</span> <span class="text-primary">arrived</span> home <span class="text-secondary">than</span> it began to rain.          
+            </p>
+            <hr>
+            8. Although the rain was heavy, we didn't get wet.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#bgo_8" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; In spite of .....
+                </a>
+            </p>
+            <p class="collapse" id="bgo_8">
+                In spite of <span class="text-primary">the heavy rain</span>, <span class="text-success">we</span> didn't get wet.<br>   (OR)<br>
+                In spite of <span class="text-primary">the rain</span> <span class="text-success">being</span> <span class="text-primary">heavy</span>, <span class="text-success">we</span> didn't get wet.
+            </p>
+            <hr>
+            9. "How long have you been waiting for me?" said Moe Moe to her friend.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#bgo_9" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Moe Moe asked .....
+                </a>
+            </p>
+            <p class="collapse" id="bgo_9">
+                Moe Moe asked her friend how long <span class="text-primary">she</span> <span class="text-success">had been waiting</span> for <span class="text-primary">her</span>.            
+            </p>
+            <hr>
+            10. I have not returned the book to the library yet.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#bgo_10" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; The book .....
+                </a>
+            </p>
+            <p class="collapse" id="bgo_10">
+                The book <span class="text-primary">has not been returned</span> to the library yet.            
+            </p>
+            <hr>
+        </div>
+        <p  class="text-success">မကွေး</p>
+        <div>
+            1. The flight was delayed as the weather was bad.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mgw_1" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Due to .....
+                </a>
+            </p>
+            <p class="collapse" id="mgw_1">
+                Due to <span class="text-primary">the bad weather</span>, the flight was cancelled.
+            </p>
+            <hr>
+            2. The dog rushed towards the gate as soon as the boy let it out of the kennel.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mgw_2" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; No sooner .....
+                </a>
+            </p>
+            <p class="collapse" id="mgw_2">
+                No sooner <span class="text-primary">did</span> <span class="text-success">the boy</span> <span class="text-primary">let</span> it out of the kennel <span class="text-secondary">than</span> the dog rushed towards the gate.
+            </p>
+            <hr>
+            3. It is better for you if you don't know much about the problem.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mgw_3" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; The less .....
+                </a>
+            </p>
+            <p class="collapse" id="mgw_3">
+                <span class="text-primary">The less</span> <span class="text-success">you know about the problem</span>, <span class="text-primary">the better</span> <span class="text-success">it is for you</span>.
+            </p>
+            <hr>
+            4. Jimmy said to Mary, "May I know your phone number?".<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mgw_4" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Jimmy asked .....
+                </a>
+            </p>
+            <p class="collapse" id="mgw_4">
+                Jimmy asked Mary <span class="text-primary">if</span> <span class="text-success">he</span> <span class="text-primary">might know</span> <span class="text-success">her</span> phone number.
+            </p>
+            <hr>
+            5. Identity cards must be brought by all candidates to the examination hall.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mgw_5" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; All candidates .....
+                </a>
+            </p>
+            <p class="collapse" id="mgw_5">
+                All candidates <span class="text-primary">must bring</span> <span class="text-success">identity cards</span> to the examination hall.
+            </p>
+            <hr>
+            6. Thura plays golf better than Thiha.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mgw_6" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Thiha .....
+                </a>
+            </p>
+            <p class="collapse" id="mgw_6">
+                Thiha <span class="text-primary">does not play golf</span> <span class="text-success">as well as</span> Thura.
+            </p>
+            <hr>
+            7. Both Myo Myo and Soe Soe were present at the party yesterday.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mgw_7" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Neither .....
+                </a>
+            </p>
+            <p class="collapse" id="mgw_7">
+                <span class="text-primary">Neither</span> <span class="text-success">Myo Myo</span> <span class="text-primary">nor</span> <span class="text-success">Soe Soe</span> <span class="text-secondary">was absent</span> at the party yesterday.
+            </p>
+            <hr>
+            8. If you don't follow the teacher's advice, you won't get the correct answer.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mgw_8" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Unless .....
+                </a>
+            </p>
+            <p class="collapse" id="mgw_8">
+                Unless you <span class="text-primary">follow</span> the teacher's advice, you won't get the correct answer.
+            </p>
+            <hr>
+            9. You cannot pass the matriculation examination unless you work really hard.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mgw_9" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Without .....
+                </a>
+            </p>
+            <p class="collapse" id="mgw_9">
+                Without <span class="text-primary">working</span> really hard, <span class="text-success">you</span> cannot pass the matriculation examination.
+            </p>
+            <hr>
+            10. The room is so large that it can be used as a reception room.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mgw_10" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; The room is large .....
+                </a>
+            </p>
+            <p class="collapse" id="mgw_10">
+                The room is <span class="text-primary">large enough</span> <span class="text-success">to be used</span> as a reception room.
+            </p>
+            <hr>
+        </div>
+        <p  class="text-success">ရှမ်း/ ကယား</p>
+        <div>
+            1. My grandmother taught me how to cook curries.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#shan_1" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; I .....
+                </a>
+            </p>
+            <p class="collapse" id="shan_1">
+                I <span class="text-primary">was taught</span> how to cook curries <span class="text-success">by my grandmother</span>.
+            </p>
+            <hr>
+            2. You are too young to understand what I mean.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#shan_2" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; You are not .....
+                </a>
+            </p>
+            <p class="collapse" id="shan_2">
+                You are <span class="text-primary">not old enough</span> to understand what I mean.
+            </p>
+            <hr>
+            3. If we travel more quickly, we will reach our destination faster.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#shan_3" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; The more .....
+                </a>
+            </p>
+            <p class="collapse" id="shan_3">
+                <span class="text-primary">The more quickly</span> <span class="text-success">we travel</span>, <span class="text-primary">the faster</span> <span class="text-success">we will reach our destination</span>.
+            </p>
+            <hr>
+            4. When the athlete knew that he had broken the record, he was delighted very much.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#shan_4" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Knowing .....
+                </a>
+            </p>
+            <p class="collapse" id="shan_4">
+                <span class="text-primary">Knowing</span> that he had broken the record, <span class="text-success">the athlete</span> was delighted very much.
+            </p>
+            <hr>
+            5. Although she took regular exercises, she did not lose weight.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#shan_5" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; In spite of .....
+                </a>
+            </p>
+            <p class="collapse" id="shan_5">
+                In spite of <span class="text-primary">taking</span> regular exercises, <span class="text-success">she</span> did not lose weight.
+            </p>
+            <hr>
+            6. Ma Ma speaks English more fluently than her friends.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#shan_6" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Her friends .....
+                </a>
+            </p>
+            <p class="collapse" id="shan_6">
+                Her friends <span class="text-primary">do not speak English</span> <span class="text-success">as fluently as</span> Ma Ma.
+            </p>
+            <hr>
+            7. The Myanmar Traditional Chinlone Teams won many gold medals in the 27th SEA Games.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#shan_7" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; It .....
+                </a>
+            </p>
+            <p class="collapse" id="shan_7">
+                It was <span class="text-primary">the Myanmar Traditional Chinlone Teams</span> <span class="text-success">that</span> won many gold medals in the 27th SEA Games.<br>
+                (OR)<br>
+                It was <span class="text-primary">in the 27th SEA Games</span> <span class="text-success">that</span> the Myanmar Traditional Chinlone Teams won many gold medals.
+            </p>
+            <hr>
+            8. Inlay Lake is visited by most tourists. It is one of the tourist attractions in Myanmar.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#shan_8" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Inlay Lake, .....
+                </a>
+            </p>
+            <p class="collapse" id="shan_8">
+                <span class="text-primary">Inlay Lake</span>, <span class="text-success">one of the tourist attractions in Myanmar</span>, is visited by most tourists.
+            </p>
+            <hr>
+            9. The journey was so exciting that I could not forget it.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#shan_9" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; It was such .....
+                </a>
+            </p>
+            <p class="collapse" id="shan_9">
+                It was <span class="text-primary">such an exciting journey</span> <span class="text-success">that</span> I could not forget it.
+            </p>
+            <hr>
+            10. We will go to Ngapali in summer. We will go to Chaungtha in summer.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#shan_10" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; We will go either .....
+                </a>
+            </p>
+            <p class="collapse" id="shan_10">
+                We will go <span class="text-primary">either</span> <span class="text-success">to Ngapali</span> <span class="text-primary">or</span> <span class="text-success">to Chaungtha</span> in summer.
+            </p>
+            <hr>
+        </div>
+        <p  class="text-success">ဧရာဝတီ</p>
+        <div>
+            1. When we reached the village, it was already dark.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#aye_" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; By the time .....
+                </a>
+            </p>
+            <p class="collapse" id="aye_">
+                <span class="text-primary">By the time</span> we reached the village, it was already dark.
+            </p>
+            <hr>
+            2. I said to my brother, "What happened to your computer?"<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#aye_2" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; I asked .....
+                </a>
+            </p>
+            <p class="collapse" id="aye_2">
+                I asked my brother what <span class="text-primary">had happened</span> to <span class="text-success">his</span> computer.
+            </p>
+            <hr>
+            3. Diamond is the most precious stone in the world.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#aye_3" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; There is no .....
+                </a>
+            </p>
+            <p class="collapse" id="aye_3">
+                There is no <span class="text-primary">stone in the world</span> <span class="text-success">as precious as</span> diamond.
+            </p>
+            <hr>
+            4. When the boys had done their homework, they went to bed.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#aye_4" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; No sooner .....
+                </a>
+            </p>
+            <p class="collapse" id="aye_4">
+                No sooner <span class="text-primary">had</span> <span class="text-success">the boys</span> <span class="text-primary">done</span> their homework <span class="text-secondary">than</span> they went to bed.
+            </p>
+            <hr>
+            5. The maid swept the floor and then polished it.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#aye_5" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; After .....
+                </a>
+            </p>
+            <p class="collapse" id="aye_5">
+                After <span class="text-primary">sweeping</span> the floor<span class="text-success">, the maid</span> polished it.<br>
+                (OR)<br>
+                After <span class="text-primary">the maid</span> <span class="text-success">had swept</span> the floor<span class="text-primary">, she</span> polished it.
+            </p>
+            <hr>
+            6. Myanmar is an agricultural country. Thailand is an agricultural country.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#aye_6" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Both .....
+                </a>
+            </p>
+            <p class="collapse" id="aye_6">
+                <span class="text-primary">Both</span> <span class="text-success">Myanmar</span> <span class="text-primary">and</span> <span class="text-success">Thailand</span> <span class="text-secondary">are agricultural countries</span>.
+            </p>
+            <hr>
+            7. The meeting was so important that all officials had to attend it.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#aye_7" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; It was such .....
+                </a>
+            </p>
+            <p class="collapse" id="aye_7">
+                It was such <span class="text-primary">an important meeting</span> <span class="text-success">that</span> all officials had to attend it.
+            </p>
+            <hr>
+            8. Unless you behave well, you'll not be allowed to attend the party.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#aye_8" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; If you .....
+                </a>
+            </p>
+            <p class="collapse" id="aye_8">
+                If you <span class="text-primary">behave</span> well, you<span class="text-success">'ll be allowed</span> to attend the party.<br>
+                (OR)<br>
+                If you <span class="text-primary">do not behave</span> well, you <span class="text-success">won't be allowed </span> to attend the party.
+            </p>
+            <hr>
+            9. Myanmar is a beautiful country. It is rich in natural resources.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#aye_9" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Myanmar is not only .....
+                </a>
+            </p>
+            <p class="collapse" id="aye_9">
+                Myanmar is <span class="text-primary">not only</span> <span class="text-success">a beautiful country</span> <span class="text-primary">but also</span> <span class="text-success">rich in natural resources</span>.
+            </p>
+            <hr>
+            10. The book is not interesting enough for me to continue to read it.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#aye_10" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; The book is too .....
+                </a>
+            </p>
+            <p class="collapse" id="aye_10">
+                The book is <span class="text-primary">too boring</span> for me to continue to read it.
+            </p>
+            <hr>
+        </div>
+        <p  class="text-success">မွန်/ ကရင်/ တနသာၤရီ</p>
+        <div>
+            1. English is one of the most useful languages.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mon_1" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Very few .....
+                </a>
+            </p>
+            <p class="collapse" id="mon_1">
+                Very few <span class="text-primary">languages</span> <span class="text-success">are</span> <span class="text-secondary">as useful as</span> English.
+            </p>
+            <hr>
+            2. When I entered the room, I found that the window was open.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mon_2" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Entering .....
+                </a>
+            </p>
+            <p class="collapse" id="mon_2">
+                <span class="text-primary">Entering</span> the room, <span class="text-success">I</span> found that the window was open.
+            </p>
+            <hr>
+            3. The winning goal was scored by Aung Aung.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mon_3" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Aung Aung .....
+                </a>
+            </p>
+            <p class="collapse" id="mon_3">
+                Aung Aung <span class="text-primary">scored</span> <span class="text-success">the winning goal</span>.
+            </p>
+            <hr>
+            4. Mg Khin is clever enough to answer the question to the teacher's satisfaction.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mon_4" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Mg Khin is so .....
+                </a>
+            </p>
+            <p class="collapse" id="mon_4">
+                Mg Khin is <span class="text-primary">so clever that</span> <span class="text-success">he</span> <span class="text-secondary">can answer</span> the question to the teacher's satisfaction.
+            </p>
+            <hr>
+            5. The tourist said to the boy, "Can you show me the way to the railway station?"<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mon_5" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; The tourist asked .....
+                </a>
+            </p>
+            <p class="collapse" id="mon_5">
+                The tourist asked the boy <span class="text-primary">if</span> <span class="text-success">he</span> <span class="text-primary">could show</span> <span class="text-success">him</span> the way to the railway station.
+            </p>
+            <hr>
+            6. He drives so skillfully that the passengers feel safe and secure.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mon_6" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; He is such .....
+                </a>
+            </p>
+            <p class="collapse" id="mon_6">
+                He is <span class="text-primary">such a skilful driver</span> <span class="text-success">that</span> the passengers feel safe and secure.
+            </p>
+            <hr>
+            7. Although she has a very good job, she isn't well-paid.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mon_7" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; In spite of .....
+                </a>
+            </p>
+            <p class="collapse" id="mon_7">
+                In spite of <span class="text-primary">having</span> a good job, <span class="text-success">she</span> isn't well-paid.
+            </p>
+            <hr>
+            8. Unless you heed your parent's words, you'll get into trouble.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mon_8" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; If .....
+                </a>
+            </p>
+            <p class="collapse" id="mon_8">
+                If you <span class="text-primary">heed</span> your parent's words, you <span class="text-success">won't get</span> into trouble.<br>
+                (OR)<br>
+                If you <span class="text-primary">don't heed</span> your parent's words, you<span class="text-success">'ll get</span> into trouble.
+            </p>
+            <hr>
+            9. Daylight is better than electric light.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mon_9" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Electric .....
+                </a>
+            </p>
+            <p class="collapse" id="mon_9">
+                Electric light is <span class="text-primary">not as good</span> <span class="text-success">as daylight</span>.
+            </p>
+            <hr>
+            10. The philosopher came back empty-handed. So did the medico.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mon_10" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Both .....
+                </a>
+            </p>
+            <p class="collapse" id="mon_10">
+                <span class="text-primary">Both</span> <span class="text-success">the philosopher</span> <span class="text-primary">and</span> <span class="text-success">the medico</span> came back empty-handed.
+            </p>
+            <hr>
+        </div>
+        <p  class="text-success">ရခိုင်</p>
+        <div>
+            1. The headmistress gave us a speech in the hall yesterday.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#rk_1" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; We .....
+                </a>
+            </p>
+            <p class="collapse" id="rk_1">
+                We <span class="text-primary">were given</span> a speech in the hall <span class="text-success">by the headmaster</span>.
+            </p>
+            <hr>
+            2. The book is too boring for me to read to the end.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#rk_2" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; The book is not .....
+                </a>
+            </p>
+            <p class="collapse" id="rk_2">
+                The book is <span class="text-primary">not interesting enough</span> for me to read to the end.
+            </p>
+            <hr>
+            3. When you ride your bike faster, the danger is greater.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#rk_3" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; The faster .....
+                </a>
+            </p>
+            <p class="collapse" id="rk_3">
+                <span class="text-primary">The faster</span> <span class="text-success">you ride your bike</span>, <span class="text-primary">the greater</span> <span class="text-success">the danger</span>.
+            </p>
+            <hr>
+            4. When he had done his homework, he read the newspaper.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#rk_4" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Having .....
+                </a>
+            </p>
+            <p class="collapse" id="rk_4">
+                <span class="text-primary">Having done</span> his homework, <span class="text-success">he</span> read the newspaper.
+            </p>
+            <hr>
+            5. These potted plants look more beautiful than the flowers in my garden.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#rk_5" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; The flowers in my garden .....
+                </a>
+            </p>
+            <p class="collapse" id="rk_5">
+                The flowers in my garden <span class="text-primary">do not look</span> <span class="text-success">as beautiful as</span> these potted plants.
+            </p>
+            <hr>
+            6. Although he fell from a great height, he did not break any bones.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#rk_6" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; In spite of .....
+                </a>
+            </p>
+            <p class="collapse" id="rk_6">
+                In spite of <span class="text-primary">falling</span> from a great height, <span class="text-success">he</span> did not break any bones.
+            </p>
+            <hr>
+            7. My eldest sister sent me a lovely doll as a present.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#rk_7" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; It .....
+                </a>
+            </p>
+            <p class="collapse" id="rk_7">
+                It was <span class="text-primary">a lovely doll</span> <span class="text-success">that</span> my elder sister sent me as a birthday present.
+            </p>
+            <hr>
+            8. Inlay is very famous among tourists. It is a huge freshwater lake in Shan State.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#rk_8" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Inlay, .....
+                </a>
+            </p>
+            <p class="collapse" id="rk_8">
+                <span class="text-primary">Inlay</span>, <span class="text-success">a huge freshwater lake in Shan State</span>, is very famous among tourists.
+            </p>
+            <hr>
+            9. The suit was so expensive that I could not afford it.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#rk_9" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; It was such .....
+                </a>
+            </p>
+            <p class="collapse" id="rk_9">
+                It was <span class="text-primary">such an expensive suit</span> <span class="text-success">that</span> I could not afford it.
+            </p>
+            <hr>
+            10. She may have gone to the pagoda. She may have gone to the monastery.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#rk_10" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; She may have gone either .....
+                </a>
+            </p>
+            <p class="collapse" id="rk_10">
+                She may have gone <span class="text-primary">either</span> <span class="text-success">to the pagoda</span> <span class="text-primary">or</span> <span class="text-success">to the monastery</span>.
+            </p>
+            <hr>
+        </div>
+        <p  class="text-success">နိုင်ငံခြား</p>
+        <div>
+            1. Although he worked the whole night, he couldn't finish the task.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_1" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; In spite of .....
+                </a>
+            </p>
+            <p class="collapse" id="for_1">
+                In spite of <span class="text-primary">working</span> the whole night, <span class="text-success">he</span> couldn't finish the task.
+            </p>
+            <hr>
+            2. I was taught by experience that life is meaningful.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_2" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Experience .....
+                </a>
+            </p>
+            <p class="collapse" id="for_2">
+                Experience <span class="text-primary">taught</span> <span class="text-success">me</span> that life is meaningful.
+            </p>
+            <hr>
+            3. As soon as Mya Mya realized that the house was on fire, she rang the fire station.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_3" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; No sooner .....
+                </a>
+            </p>
+            <p class="collapse" id="for_3">
+                No sooner <span class="text-primary">did</span> <span class="text-success">Mya Mya</span> <span class="text-primary">realize</span> that the house was on fire <span class="text-secondary">than</span> she rang the fire station.
+            </p>
+            <hr>
+            4. Every student in our school obeys the rules and regulations.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_4" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; There is no .....
+                </a>
+            </p>
+            <p class="collapse" id="for_4">
+                There is no <span class="text-primary">student in our school</span> <span class="text-success">who</span> <span class="text-secondary">does not obey</span> the rules and regulations.
+            </p>
+            <hr>
+            5. U Hla Maung is a very strict person. He is the managing director of our company.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_5" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; U Hla Maung, .....
+                </a>
+            </p>
+            <p class="collapse" id="for_5">
+                <span class="text-primary">U Hla Maung</span>, <span class="text-success">the managing director of our company</span>, is a very strict person.
+            </p>
+            <hr>
+            6. Robots can work more precisely than human workers.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_6" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Human workers .....
+                </a>
+            </p>
+            <p class="collapse" id="for_6">
+                Human workers <span class="text-primary">cannot work</span> <span class="text-success">as precisely as</span> robots.
+            </p>
+            <hr>
+            7. Mother said to Ko Ko, "Did you go to the cinema with your friends yesterday?".<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_7" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Mother .....
+                </a>
+            </p>
+            <p class="collapse" id="for_7">
+                Mother asked Ko Ko <span class="text-primary">if</span> <span class="text-success">he</span> <span class="text-primary">had gone</span> to the cinema with <span class="text-success">his</span> friends <span class="text-secondary">the day before</span>.
+            </p>
+            <hr>
+            8. The students left the classroom. They did not shut all the windows.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_8" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Without .....
+                </a>
+            </p>
+            <p class="collapse" id="for_8">
+                Without <span class="text-primary">shutting</span> all the windows, <span class="text-success">the students</span> left the classroom.
+            </p>
+            <hr>
+            9. The day was so wet and cold that we stayed indoors.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_9" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; It was such .....
+                </a>
+            </p>
+            <p class="collapse" id="for_9">
+                It was <span class="text-primary">such a wet and cold day</span> <span class="text-success">that</span> we stayed indoors.
+            </p>
+            <hr>
+            10. My sister and I cannot answer this question.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_10" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Neither .....
+                </a>
+            </p>
+            <p class="collapse" id="for_10">
+                <span class="text-primary">Neither</span> <span class="text-success">my sister</span> <span class="text-primary">nor</span> <span class="text-success">I</span> <span class="text-secondary">can answer</span> this question.
+            </p>
+            <hr>
+            <p class="text-center"><span class="text-primary font-weight-bold">Matric Grammar Helper by Win Zaw Tun ( Mogok )
+            <hr>
+        </div>
+
+      </div>
+    </body>
+
+</html>

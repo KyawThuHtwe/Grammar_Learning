@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ResultActivity">
+
+    <TextView
+        android:layout_weight="1"
+        android:text="Score"
+        android:textSize="30sp"
+        android:padding="20dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textColor="@color/colorTextPrimary"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:id="@+id/tvResult"/>
+
+    <LinearLayout
+        android:background="@color/colorPrimary"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true">
+        <Button
+            android:background="@android:color/transparent"
+            android:layout_height="wrap_content"
+            android:layout_width="0dp"
+            android:text="Retry"
+            android:textColor="@color/colorWhite"
+            android:layout_weight="1.0"
+            android:onClick="retryClick"/>
+        <View
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:background="@color/colorWhite"
+            android:layout_width="1dp"
+            android:layout_height="match_parent"/>
+        <Button
+            android:background="@android:color/transparent"
+            android:textColor="@color/colorWhite"
+            android:layout_height="wrap_content"
+            android:layout_width="0dp"
+            android:text="Exit"
+            android:layout_weight="1.0"
+            android:onClick="exitClick"/>
+    </LinearLayout>
+
+</LinearLayout>

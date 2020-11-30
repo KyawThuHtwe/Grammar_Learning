@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<meta charset="utf-8"/>
+
+<html>
+
+    <head>
+      <link rel="stylesheet" type="text/css" href="patterns.css">
+      <style>
+
+          @font-face {
+            font-family: mmfont;
+            src:
+                    url("file:///android_asset/fonts/Pyidaungsu-Regular.ttf"),
+                    url("file:///android_asset/fonts/Pyidaungsu-Bold.ttf");
+          }
+
+          html *{
+              font-family: "mmfont";
+              font-size: 0.9rem;
+          }
+
+      </style>
+      <script src="jquery.min.js"></script>
+      <script src="bootstrap.min.js"></script>
+      <title>Old Questions</title>
+    </head>
+
+    <body>
+      <div class="container">
+            <br>
+        <p class="text-center text-primary" style="font-weight: bold; font-size: 1.35rem;">2019 Old Questions</p>
+        <br>
+        <p  class="text-success">ပြည်တွင်း</p>
+        <div>
+            1. The future of a nation will be shaped by the education of its youth.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_1" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; The education .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_1">
+                The education of a nation's youth <span class="text-primary">will shape</span> <span class="text-success">its future</span>.
+            </p>
+            <hr>
+            2. He said to me, "Try hard until your good is better and your better is best."<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_2" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; He .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_2">
+                He told/ advised me to try hard until <span class="text-primary">my</span> good <span class="text-success">was</span> better and <span class="text-primary">my</span> better <span class="text-success">was</span> best.
+            </p>
+            <hr>
+            3. The road she took is not as simple as mine.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_3" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; The road I .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_3">
+                The road I took is <span class="text-primary">simpler</span> <span class="text-success">than hers</span>.
+            </p>
+            <hr>
+            4. If he does not create change, change will create him.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_4" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Unless .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_4">
+                Unless he <span class="text-primary">creates</span> change, change will create him.
+            </p>
+            <hr>
+            5. The table clock doesn't show the correct time and the wall clock doesn't either.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_5" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Neither .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_5">
+                <span class="text-primary">Neither</span> <span class="text-success">the table clock</span> <span class="text-primary">nor</span> <span class="text-success">the wall clock</span> shows the correct time.
+            <hr>
+            6. As soon as he put the phone down, it started ringing again.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_6" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; No sooner .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_6">
+                No sooner <span class="text-primary">did</span> <span class="text-success">he</span> <span class="text-primary">put</span> the phone down <span class="text-success">than</span> it started ringing again.
+            </p>
+            <hr>
+            7. Although the rain was heavy, the drainage system saved the town from floods.
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_7" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; In spite of .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_7">
+                In spite of <span class="text-primary">the heavy rain</span>, the drainage system saved the town from floods.
+            </p>
+            <hr>
+            8. As you pay more, the quality becomes better.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_8" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; The more .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_8">
+                <span class="text-primary">The more</span> <span class="text-success">you pay</span>, <span class="text-primary">the better</span> <span class="text-success">the quality becomes</span>.
+            </p>
+            <hr>
+            9. Hard work can help us achieve success.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_9" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; It is .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_9">
+                It is <span class="text-primary">hard work</span> <span class="text-success">that</span> can help us achieve success.
+            </p>
+            <hr>
+            10. All mothers devote their lives to the wellbeing of their children.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_10" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; There is no .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_10">
+                There is no <span class="text-primary">mother</span> <span class="text-success">who</span> <span class="text-primary">does not devote</span> <span class="text-success">her life</span> to the wellbeing of <span class="text-success">her</span> children.
+            </p>
+            <hr>
+        </div>
+        <p  class="text-success">နိုင်ငံခြား</p>
+        <div>
+            1. Kyaw Thu said, "Please don't tell my father that I did not attend the classes yesterday."<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_1" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Kyaw Thu told .....
+                </a>
+            </p>
+            <p class="collapse" id="for_1">
+                Kyaw Thu told me <span class="text-primary">not to tell</span> <span class="text-success">his</span> father that <span class="text-primary">he had not attended</span> the classes <span class="text-secondary">the day before</span>.
+            </p>
+            <hr>
+            2. All the children like playing computer games.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_2" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; There is no .....
+                </a>
+            </p>
+            <p class="collapse" id="for_2">
+                There is no <span class="text-primary">child</span> <span class="text-success">who</span> <span class="text-primary">does not like</span> playing computer games.
+            </p>
+            <hr>
+            3. My mother had just finished cooking dinner when my father got home from work.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_3" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; No sooner .....
+                </a>
+            </p>
+            <p class="collapse" id="for_3">
+                No sooner <span class="text-primary">had</span> <span class="text-success">my mother</span> <span class="text-primary">finished</span> cooking dinner <span class="text-success">than</span> my father got home from work.
+            </p>
+            <hr>
+            4. The police have investigated an official enquiry into the accident.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_4" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; An official enquiry .....
+                </a>
+            </p>
+            <p class="collapse" id="for_4">
+                An official enquiry into the accident <span class="text-primary">has been investigated</span> <span class="text-success">by the police</span>.
+            </p>
+            <hr>
+            5. I admitted my mistake to my mother. Then, I felt relieved.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_5" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; After I .....
+                </a>
+            </p>
+            <p class="collapse" id="for_5">
+                After I <span class="text-primary">admitted/ had admitted</span> my mistake to my mother, <span class="text-success">I</span> felt relieved.
+            </p>
+            <hr>
+            6. Although I have seen this movie several times, I still cry at the end.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_6" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; In spite of .....
+                </a>
+            </p>
+            <p class="collapse" id="for_6">
+                In spite of <span class="text-primary">having seen</span> the movie several times, <span class="text-success">I</span> still cry at the end.
+            </p>
+            <hr>
+            7. If you follow the school rules and regulations, you won't be punished.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_7" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Unless .....
+                </a>
+            </p>
+            <p class="collapse" id="for_7">
+                Unless you <span class="text-primary">follow</span> the school rules and regulations, you <span class="text-success">will be</span> punished.
+            </p>
+            <hr>
+            8. It is very cold. We cannot go out without wearing warm clothes.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_8" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; It is too .....
+                </a>
+            </p>
+            <p class="collapse" id="for_8">
+                It is <span class="text-primary">too cold</span> <span class="text-success">for us</span> <span class="text-primary">to go out</span> without wearing warm clothes.
+            </p>
+            <hr>
+            9. We sometimes work too hard to enjoy the beauty of nature.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_9" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; We sometimes work so .....
+                </a>
+            </p>
+            <p class="collapse" id="for_9">
+                We sometimes work <span class="text-primary">so hard</span> <span class="text-success">that</span> <span class="text-primary">we</span> <span class="text-success">cannot enjoy</span> the beauty of nature.
+            </p>
+            <hr>
+            10. Thida shouted with joy when she heard that she won a scholarship to study at Harvard University.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_10" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Hearing .....
+                </a>
+            </p>
+            <p class="collapse" id="for_10">
+                <span class="text-primary">Hearing</span> that she won a scholarship to study at Harvard University, <span class="text-success">Thida</span> shouted with joy.
+            </p>
+            <hr>
+            <p class="text-center"><span class="text-primary font-weight-bold">Matric Grammar Helper by Win Zaw Tun ( Mogok )
+            <hr>
+        </div>
+
+      </div>
+    </body>
+
+</html>

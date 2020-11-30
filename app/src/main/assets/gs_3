@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="patterns.css">
+        <title>Action Verbs</title>
+        <style>
+            @font-face {
+                font-family: mmfont;
+                src:
+                    url("file:///android_asset/fonts/Pyidaungsu-Regular.ttf"),
+                    url("file:///android_asset/fonts/Pyidaungsu-Bold.ttf");
+            }
+
+            html *{
+                font-family: mmfont;
+                font-size: 0.9rem;
+            }     
+            hr.dash {
+                border-top: 1px dashed red;
+            }
+            hr.solid {
+                border-top: 0.7px solid grey;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <br>
+            <p class="text-center text-primary" style="font-size: 1.35rem;">ဖတ်ခဲ့ရသောစာအုပ်များမှ ဝါကျအလှများ ( ၃ )</p>
+            <br>       
+            <br>
+            <div class="card">
+                <div class="card-body">
+                    &#9726; Summer vacation has only begun, but as far as 12-year-old Nooria is concerned, the best thing is knowing she has a school to go back to in the fall. She couldn't be sure the place would stay open four months ago, after the Taliban tried to burn it down. Late one February night, more than a dozen masked gunmen burst into the 10-room girls' school in Nooria's village, Mandrawar, about 100 miles east of Kabul. They tied up and beat the night watchman, soaked the principal's office and the library with gasoline, set it on fire and escaped into the darkness. The townspeople, who doused the blaze before it could spread, later found written messages from the gunmen promising to cut off the nose and ears of any teacher or student who dared to return.<br>
+                    <br>
+                    (Newsweek Magazine - June 26, 2006)
+                </div>
+            </div>
+            <br>
+            <br>
+            <p>
+                Summer vacation has only begun,<br>
+                နွေကျောင်းပိတ်ရက်တွေအစပဲရှိပါသေးတယ်<br>
+                <br>
+                but as far as 12-year-old Nooria is concerned,<br>
+                ဒါပေမယ့် ၁၂ နှစ်အရွယ် နူရီယာအတွက်ကတော့<br>
+                <br>
+                ( "as far as someone is concerned" ဆိုတာက တစ်စုံတစ်ရာနဲ့ပတ်သက်ပြီး ထင်မြင်ချက်ပေးတာကို ဆိုလိုပါတယ်... "12-year-old" ဆိုတာက <span class="text-primary">compound adjective</span> ဖြစ်ပါတယ်... ဒီလို <span class="text-primary">compound adjective</span> တွေမှာပါတဲ့ <span class="text-primary">noun</span> တွေဟာ တစ်ခုကိုန်းအနေနဲ့ပဲတည်ရှိပါတယ်... "a four-foot table", "a 200-page book", etc. )<br>
+                <br>
+                the best thing is knowing she has a school to go back to in the fall.<br>
+                ဆောင်းဦးရာသီမှာ ပြန်တက်စရာကျောင်းရှိသေးတယ်ဆိုတဲ့အသိဟာ အကောင်းဆုံးအရာပါ<br>
+                <br>
+                ( "as far as 12-year-old Nooria is concerned" လို့ပြောထားတာက သူ့အနေနဲ့ကတော့ ကျောင်းပြန်တက်လို့ ရသေးတယ် အခြားကလေးလေးတွေအတွက်က တက်စရာကျောင်း အဆင်မပြေဖြစ်နေတဲ့သဘောပါ... "fall" ဆိုတာက <span class="text-primary">noun</span> ဖြစ်ပြီး ဆောင်းဦးရာသီလို့ အဓိပ္ပါယ်ရပါတယ်... <span class="text-primary">US English</span> အသုံးဖြစ်ပြီး <span class="text-primary">British English</span> မှာတော့ "autumn" လို့ သုံးပါတယ် )
+            </p>
+            <br>
+            <br>
+            <p>
+                အခုဝါကျလေးကို အစကနေ ပြန်ကောက်ကြည့်ရအောင်
+            </p>
+            <div class="card">
+                <div class="card-body">
+                    Summer vacation has only begun, but as far as 12-year-old Nooria is concerned, the best thing is knowing she has a school to go back to in the fall.
+                    <hr class="dash2">
+                    နွေကျောင်းပိတ်ရက်တွေအစပဲရှိပါသေးတယ်... ဒါပေမယ့် ၁၂ နှစ်အရွယ် နူရီယာအတွက်ကတော့ ဆောင်းဦးရာသီမှာ ပြန်တက်စရာကျောင်းရှိသေးတယ်ဆိုတဲ့အသိဟာ အကောင်းဆုံးအရာပါ
+                </div>
+            </div>
+            <br>
+            <p>
+               အခုဝါကျလေးကို ခွဲခြမ်းစိတ်ဖြာကြည့်ရအောင် 
+            </p>
+            <div class="card">
+                <div class="card-body">
+                    အခုဝါကျဟာ <span class="text-primary">compound-complex sentence</span> ဖြစ်ပါတယ်... "Summer vacation has only begun" ဆိုတဲ့ <span class="text-primary">simple sentence</span> နဲ့ "as far as 12-year-old Nooria is concerned, the best thing is knowing she has a school to go back to in the fall" ဆိုတဲ့ <span class="text-primary">complex sentence</span> ကို "but" ဆိုတဲ့ <span class="text-primary">conjunction</span> နဲ့ ဆက်ထားပေးတာဖြစ်ပါတယ်... "as far as someone/something is concerned" က <span class="text-primary">idiom</span> အသုံးဖြစ်ပါတယ်... the best thing(<span class="text-primary">subject</span>) + is(<span class="text-primary">linking verb</span>) + knowing she has a school to go back to in the fall(<span class="text-primary">complement</span>) လို့ မျက်စိထဲမြင်နေရမှာဖြစ်ပါတယ်... "knowing she has..." ဆိုရာမှာ "knowing (that)" လို့ "that" ကို မြှုပ်ပြီးရေးထားတာဖြစ်ပါတယ်         
+                </div>
+            </div>
+            <br>
+            <br>
+            <br>
+            <p>
+                She couldn't be sure the place would stay open four months ago,<br>
+                လွန်ခဲ့တဲ့လေးလက ဒီနေရာ(ကျောင်းကိုဆိုလိုတာဖြစ်ပါတယ်)ဟာ ဆက်ပြီးဖွင့်နေဦးမှာလားဆိုတာ သူမ တပ်အပ်မပြောနိုင်ခဲ့ဘူး<br>
+                <br>
+                ( "She couldn't be sure the place..." ဆိုတာဟာ "She couldn't be sure <span class="text-primary">if/whether</span> the place..." ) လို့ ဆိုလိုတာဖြစ်ပါတယ်...
+                <br>
+                <br>
+                after the Taliban tried to burn it down.<br>
+                တာလီဘန်တွေ ဒီနေရာကို မီးရှို့ဖျက်ဆီးဖို့ကြိုးစားခဲ့ပြီးနောက် 
+            </p>                    
+            <p>
+                အခုဝါကျလေးကို အစကနေ ပြန်ကောက်ကြည့်ရအောင်
+            </p>
+            <div class="card">
+                <div class="card-body">
+                    She couldn't be sure the place would stay open four months ago, after the Taliban tried to burn it down.
+                    <hr class="dash2">
+                    တာလီဘန်တွေ မီးရှို့ဖျက်ဆီးဖို့ကြိုးစားခဲ့ပြီးနောက် လွန်ခဲ့တဲ့လေးလက ဒီနေရာဟာ ဆက်ပြီးဖွင့်နေဦးမှာလားဆိုတာ သူမ တပ်အပ်မပြောနိုင်ခဲ့ဘူး
+                </div>
+            </div>
+            <br>
+            <p>
+               အခုဝါကျလေးကို ခွဲခြမ်းစိတ်ဖြာကြည့်ရအောင် 
+            </p>
+            <div class="card">
+                <div class="card-body">
+                    "She couldn't be sure" က <span class="text-primary">main clause</span> ဖြစ်ပြီး "(if/whether) the place would stay open four months ago" နဲ့ "after the Taliban tried to burn it down" တို့က <span class="text-primary">dependent clause</span> ဖြစ်ပါတယ်... "stay open" မှာ "stay" က <span class="text-primary">linking verb</span> ဖြစ်ပြီး "stay open(= is open)" လို့ ဆိုလိုတာဖြစ်ပါတယ်... "burn it down" လို့ သုံးထားတာ "burn down" ဟာ <span class="text-primary">separable phrasal verb</span> ဖြစ်တယ်ဆိုတာ နားလည်ရပါမယ်
+                </div>
+            </div>
+            <br>
+            <br>
+            <p>
+                Late one February night,<br>
+                ဖေဖော်ဝါရီလ ညနက်ပိုင်းတစ်ခုမှာ<br>
+                <br>
+                more than a dozen masked gunmen<br>
+                မျက်နှာဖုံးစွပ်သေနတ်သမားတစ်ဒါဇင်ကျော်ဟာ<br>
+                <br>
+                ( "masked" က <span class="text-primary">participle adjective</span> ဖြစ်ပြီး မျက်နှာဖုံးစွပ်ထားသော(wearing a mask) လို့ အဓိပ္ပါယ်ရပါတယ်... <span class="text-primary">past participle</span> ဖြစ်ပေမယ့် <span class="text-primary">active</span> အဓိပ္ပါယ်ထွက်တဲ့စကားလုံးဖြစ်ပါတယ် )<br>
+                <br>
+                burst into the 10-room girls' school in Nooria's village, Mandrawar, about 100 miles east of Kabul<br>
+                ကာဘူးလ်မြို့ရဲ့အရှေ့ဘက်မိုင် ၁၀၀ လောက်မှာရှိတဲ့ နူရီယာရဲ့ရွာ မန်ဒရာဝါက စာသင်ခန်းဆယ်ခန်းရှိတဲ့မိန်းကလေးကျောင်းထဲကို ဝင်လာကြတယ်<br>
+                <br>
+                ( "burst into" ဟာ နေရာတစ်နေရာကို ရုတ်တရက်/အတင်းအဓမ္မဝင်ရောက်တယ်လို့ အဓိပ္ပါယ်ရပါတယ်... "burst into flames/tears" ဆိုတဲ့ <span class="text-primary">phrasal verb</span> အသုံးမဟုတ်တာကို သတိပြုပါ... "10-room" က <span class="text-primary">compound adjective</span> ဖြစ်ပါတယ် )
+            </p>
+            <p>
+                အခုဝါကျလေးကို အစကနေ ပြန်ကောက်ကြည့်ရအောင်
+            </p>
+            <div class="card">
+                <div class="card-body">
+                    Late one February night, more than a dozen masked gunmen burst into the 10-room girls' school in Nooria's village, Mandrawar, about 100 miles east of Kabul.
+                    <hr class="dash2">
+                    ဖေဖော်ဝါရီလ ညနက်ပိုင်းတစ်ခုမှာ မျက်နှာဖုံးစွပ်သေနတ်သမားတစ်ဒါဇင်ကျော်ဟာ ကာဘူးလ်မြို့ရဲ့အရှေ့ဘက်မိုင် ၁၀၀ လောက်မှာရှိတဲ့ နူရီယာရဲ့ရွာ မန်ဒရာဝါက စာသင်ခန်းဆယ်ခန်းရှိတဲ့မိန်းကလေးကျောင်းထဲကို ဝင်လာကြတယ်
+                </div>
+            </div>
+            <br>
+            <p>အခုဝါကျလေးကို ခွဲခြမ်းစိတ်ဖြာကြည့်ရအောင်</p>
+            <div class="card">
+                <div class="card-body">
+                    အခုဝါကျလေးဟာ နည်းနည်းရှည်ပေမယ့် <span class="text-primary">simple sentence</span> ဖြစ်ပါတယ်... more than a dozen masked gunman(<span class="text-primary">subject</span>) + burst(<span class="text-primary">verb</span>) + the 10-room girls' school(<span class="text-primary">object of preposition "into"</span> ) ဆိုတဲ့ဝါကျတည်ဆောက်ပုံကို နားလည်ရမှာဖြစ်ပါတယ်... "late one February night" က <span class="text-primary">adverb phrase of time</span> ဖြစ်ပြီး "in Nooria's village, Mandrawar, about 100 miles east of Kabul" က "10-room girls' school" ကို အထူးပြုထားတဲ့ <span class="text-primary">adjective phrase</span> ဖြစ်ပါတယ်... အဲဒီထဲမှာမှ "Nooria's village, Mandrawar," ဆိုတာဟာ <span class="text-primary">nouns in apposition</span> ဖြစ်ပါတယ်
+                </div>
+            </div>
+            <br>
+            <br>
+            <p>
+                They tied up and beat the night watchman,<br>
+                သူတို့ဟာ ညစောင့်ကို ကြိုးတုပ်ပြီးရိုက်နှက်ခဲ့ကြတယ်<br>
+                <br>
+                ( "tie up" ဟာ တစ်စုံတစ်ယောက်ကိုမပြေးနိုင်အောင်ခြေလက်တွေကိုကြိုးနဲ့တင်းကြပ်စွာတုပ်နှောင်ထားတယ်လို့ အဓိပ္ပါယ်ရတဲ့ <span class="text-primary">phrasal verb</span> ဖြစ်ပါတယ်... ဒါဟာ <span class="text-primary">separable phrasal verb</span> ဖြစ်ပါတယ် )<br>
+                <br>
+                soaked the principal's office and the library with gasoline,<br>
+                ကျောင်းအုပ်ကြီးရုံးခန်းနဲ့ စာကြည့်တိုက်ကို ဓာတ်ဆီနဲ့လောင်းတယ်<br>
+                <br>
+                ( "soak" က အရည်တစ်ခုခုထဲမှာစိမ်တာဖြစ်ပါတယ်... "soak ... with gasoline" ဆိုတော့ ဓာတ်ဆီစိမ်တယ်ဆိုတာထက် ဓာတ်ဆီနဲ့လောင်းတယ်လို့ပြန်လိုက်တာပါ )
+                <br>
+                set it on fire and escaped into the darkness.<br>
+                မီးရှို့ပြီး အမှောင်ထုထဲပြေးဝင်ပျောက်ကွယ်သွားကြတယ်<br>
+                <br>
+                ( တစ်စုံတစ်ခုကိုမီးရှို့ဖျက်ဆီးတာကို "set something on fire" ဒါမှမဟုတ် "set fire to something" လို့ သုံးပါတယ်... "escape" က တစ်နေရာရာကနေ ထွက်ပြေးလွတ်မြောက်တယ်လို့ အဓိပ္ပါယ်ရပါတယ်... "escape into the darkness" ဆိုတော့ အမှောင်ထုထဲထွက်ပြေးလွတ်မြောက်သွားတယ်လို့ပြောတာဖြစ်ပါတယ် )
+                <br>
+            </p>
+            <p>
+                အခုဝါကျလေးကို အစကနေ ပြန်ကောက်ကြည့်ရအောင်
+            </p>
+            <div class="card">
+                <div class="card-body">
+                    They tied up and beat the night watchman, soaked the principal's office and the library with gasoline, set it on fire and escaped into the darkness.
+                    <hr class="dash2">
+                    သူတို့ဟာ ညစောင့်ကို ကြိုးတုပ်ပြီးရိုက်နှက်ခဲ့ကြတယ်... ကျောင်းအုပ်ကြီးရုံးခန်းနဲ့ စာကြည့်တိုက်ကို ဓာတ်ဆီနဲ့လောင်း၊ မီးရှို့ပြီး အမှောင်ထုထဲပြေးဝင်ပျောက်ကွယ်သွားကြတယ်
+                </div>
+            </div>
+            <br>
+            <p>အခုဝါကျလေးကို ခွဲခြမ်းစိတ်ဖြာကြည့်ရအောင်</p>
+            <div class="card">
+                <div class="card-body">
+                    အခုဝါကျက <span class="text-primary">compound sentence</span> ဖြစ်ပါတယ်... <span class="text-primary">independent clause</span> တွေကို <span class="text-primary">coordinationg conjunction</span> ဖြစ်တဲ့ "and" နဲ့ ဆက်ထားပေးပါတယ်... 
+                </div>
+            </div>
+            <br>
+            <br>
+            <p>
+                The townspeople, who doused the blaze before it could spread,<br>
+                မီးမကူးခင်ငြိမ်းသတ်လိုက်တဲ့ မြို့ကလူတွေဟာ<br>
+                <br>
+                ( "townspeople" ဆိုတာ မြို့တစ်မြို့မှာနေတဲ့သူတွေလို့ အဓိပ္ပါတယ်ရပါတယ်... "douse" က မီးငြိမ်းသတ်တယ်လို့ အဓိပ္ပါယ်ရပါတယ်... "blaze" က ကြီးမားတဲ့မီးတောက်လို့ အဓိပ္ပါယ်ရပါတယ်... မီးလောက်နေတာ တစ်နေရာကနေ နောက်တစ်နေရာကူးတာကို "spread" လို့ သုံးရပါတယ်... ဒါဟာ <span class="text-primary">collocation</span> ဖြစ်ပါတယ်... ဒီလိုအသုံးလေးတွေကို စာဖတ်ရင်းတွေ့တဲ့အခါ သေသေချာချာမှတ်သားထားရပါမယ် )<br>
+                <br>
+                later found written messages from the gunmen<br>
+                နောက်တော့ သေနတ်သမားတွေချန်ထားခဲ့တဲ့စာကိုတွေ့တယ်<br>
+                <br>
+                promising to cut off the nose and ears of any teacher or student who dared to return<br>
+                (ကျောင်းကို) ပြန်လာရဲတဲ့ ဘယ်ဆရာ/ဆရာမ၊ ကျောင်းသားမဆိုကို နှာခေါင်းနဲ့နားရွက်တွေ ဖြတ်ထုတ်ပစ်မယ်လို့ ပြောထားတဲ့ သေနတ်သမားတွေချန်ထားခဲ့တဲ့(စာ)<br>
+                <br>
+                ( "promise" ကို ဒီနေရာမှာ ကတိပေးတယ်လို့ မပြန်ဆိုထားပါဘူး... တစ်ခုခုကိုလုပ်မယ်လို့ ခြိမ်းခြောက်တဲ့အဓိပ္ပါယ်ပါ )
+            </p>
+            <p>
+                အခုဝါကျလေးကို အစကနေ ပြန်ကောက်ကြည့်ရအောင်
+            </p>
+            <div class="card">
+                <div class="card-body">
+                    The townspeople, who doused the blaze before it could spread, later found written messages from the gunmen promising to cut off the nose and ears of any teacher or student who dared to return.
+                    <hr class="dash2">
+                    မီးမကူးခင်ငြိမ်းသတ်လိုက်တဲ့ မြို့ကလူတွေဟာ (ကျောင်းကို) ပြန်လာရဲတဲ့ ဘယ်ဆရာ/ဆရာမ၊ ကျောင်းသားကိုမဆို နှာခေါင်းနဲ့နားရွက်တွေ ဖြတ်ထုတ်ပစ်မယ်လို့ ပြောထားတဲ့ သေနတ်သမားတွေချန်ထားခဲ့တဲ့စာကို နောက်တော့တွေ့ရတယ်
+                </div>
+            </div>
+            <br>
+            <p>အခုဝါကျလေးကို ခွဲခြမ်းစိတ်ဖြာကြည့်ရအောင်</p>
+            <div class="card">
+                <div class="card-body">
+                    "The townspeople, who doused the blaze before it could spread," ဟာ <span class="text-primary">non-defining relative clause</span> ဖြစ်ပါတယ်... "written messages form the gunmen promising to ..." မှာသုံးထားတဲ့ "promising" ဆိုတာ "written messages from the gunmen <span class="font-italic">who promised</span> to ... " ဆိုတဲ့ <span class="text-primary">defining relative clause</span> ကို <span class="text-primary">reduce</span> လုပ်ထားတာပါ... "promising" ဟာ အောင်မြင်ဖို့အလားအလာရှိသော လို့အဓိပ္ပါယ်ရတဲ့ <span class="text-primary">adjective</span> အနေနဲ့လည်း သုံးလို့ရတာကို သတိပြုပါ (e.g. a promising actor)... "cut off" ဟာ တစ်စုံတစ်ရာကို ဓားနဲ့လှီးထုတ်လိုက်တယ်လို့ အဓိပ္ပါယ်ရတဲ့ <span class="text-primary">separable phrasal verb</span> ဖြစ်ပါတယ်
+                </div>
+            </div>
+            <br>
+            <br>
+            <div><span class="text-primary font-weight-bold">Source :</span>
+                <span class="font-weight-bold">Newsweek magazine</span></div>
+            <hr>
+            <p class="text-center"><span class="text-primary font-weight-bold">Matric Grammar Helper by Win Zaw Tun ( Mogok )</span></p>
+            <hr>
+        </div>
+    </body>
+</html>

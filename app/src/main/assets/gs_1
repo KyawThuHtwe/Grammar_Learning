@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="patterns.css">
+        <title>Action Verbs</title>
+        <style>
+            @font-face {
+                font-family: mmfont;
+                src:
+                    url("file:///android_asset/fonts/Pyidaungsu-Regular.ttf"),
+                    url("file:///android_asset/fonts/Pyidaungsu-Bold.ttf");
+            }
+
+            html *{
+                font-family: mmfont;
+                font-size: 0.9rem;
+            }     
+            hr.dash {
+                border-top: 1px dashed red;
+            }
+            hr.solid {
+                border-top: 0.7px solid grey;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <br>
+            <p class="text-center text-primary" style="font-size: 1.35rem;">ဖတ်ခဲ့ရသောစာအုပ်များမှ ဝါကျအလှများ ( ၁ )</p>
+            <br>
+            <p>
+                ကျွန်တော်ဖတ်ခဲ့တဲ့ မဂ္ဂဇင်း ဝတ္ထုတွေထဲက မှတ်သားထားတဲ့ ကောင်းနိုးရာရာဝါကျလေးတွေကို ရှင်းလင်းချက်လေးတွေနဲ့ဖော်ပြပြီး လေ့လာသူတွေအတွက် မျှဝေပေးချင်လို့ ဒီသင်ခန်းစာလေးကို ရေးပေးလိုက်ခြင်းဖြစ်ပါတယ်<br>
+            </p>
+            <div class="card">
+                <div class="card-body">
+                    &#9726; High expectations for children are nothing new in China, where the need to master thousands of characters necessary for basic literacy—coupled with the educational legacy of Confucius—has turned many an inquisitive, bright-eyed student into a sullen rote learner. But the pressure on even the youngest children is intensifying as their parents embrace the notion that education is a primary driver of the kind of upward mobility that was previously unthinkable in China. Eager to provide their kids with a head start, Chinese parents are signing them up for everything from weekend prep courses for under-sixes to boarding schools for toddlers.<br>
+                    ( Time Magazine - March 27, 2006 )<br>
+                </div>
+            </div>
+            <p>                
+                <br>
+                <br>
+                <br>
+                High expectations for children are nothing new in China<br>
+                ကလေးတွေအပေါ်မျှော်မှန်းချက်ကြီးကြီးမားမားထားကြတာဟာ တရုတ်ပြည်မှာ အဆန်းမဟုတ်တော့ဘူး<br>
+                <br>
+                where the need to master thousands of characters necessary for basic literacy<br>
+                အခြေခံစာတတ်မြောက်ဖို့အတွက်လိုအပ်တဲ့ ထောင်ပေါင်းများစွာသော အက္ခရာတွေကိုကျွမ်းကျင်ပိုင်နိုင်နေဖို့လိုအပ်ချက်<br>
+                <br>
+                ( "China, where ..." လို့ သုံးထားတာ <span class="text-primary">non-defining relative clause</span> ဖြစ်တယ်ဆိုတာ သတိပြုပါ )<br>
+                <br>
+                coupled with the educational legacy of Confucius<br>
+                ကွန်ဖြူးရှပ်ရဲ့ ပညာရေးအမွေနဲ့ တွဲထားတယ်<br>
+                <br>
+                ( ကွန်ဖြူးရှပ်ဟာ <span class="text-primary">500BC</span> လောက်က တရုတ်တွေးခေါ်ပညာရှင်တစ်ယောက်ဖြစ်ပါတယ်... ပညာရေးကို အလေးပေးခဲ့တဲ့သူဖြစ်တယ်... သူ့ရဲ့ပညာရေးခံယူချက်မှာ "calligraphy" လို့ခေါ်တဲ့ လက်ရေးလှပညာ နဲ့ ဂီတတို့လည်း ပါဝင်တယ်... ဒီစကားစုလေးကို <span class="text-primary">dash ( — )</span> နှစ်ခုကြားထည့်ထားတာက <span class="text-primary">extra information</span> ပေးတာဖြစ်ပါတယ် )<br>
+                <br>
+                has turned many an inquisitive, bright-eyed student into a sullen rote learner<br>
+                စူးစမ်းလေ့လာလိုစိတ်ရှိပြီး တက်ကြွတဲ့ ကျောင်းသားများစွာကို သုန်မှုန်နေတဲ့ စာအလွတ်ကျက်မှတ်သူတွေအဖြစ် ပြောင်းသွားစေတယ်<br>
+                <br>
+                ( "Many a/an" အသုံးဟာ ကဗျာတွေမှာအတွေ့ရများတဲ့ အသုံးဖြစ်ပါတယ်... "many" နဲ့အဓိပ္ပါယ်တူပါတယ်... ထူးခြားတာက များစွာလို့ အဓိပ္ပါယ်ရပေမယ့် သူ့နောက်က <span class="text-primary">noun</span> ဟာ တစ်ခုကိန်းပဲလိုက်ရပါတယ်... "bright-eyed" က စိတ်အားထက်သန်မှုတွေနဲ့ပြည့်နေသော လို့ အဓိပ္ပါယ်ရပါတယ်... "bright-eyed and bushy-tailed" လို့လည်း သုံးကြပါတယ်... "rote learning" ဆိုတာက နှုတ်တိုက်ကျက်တာကိုပြောတာပါ... "rote learner" ဆိုတော့ အလွတ်ကျက်မှတ်တဲ့သူလို့ အဓိပ္ပါယ်ရပါတယ် )<br>
+                <br>
+                အခုဝါကျကို အစကနေ ပြန်ကောက်ကြည့်ရအောင်<br>
+                <div class="card">
+                    <div class="card-body">
+                        High expectations for children are nothing new in China, where the need to master thousands of characters necessary for basic literacy—coupled with the educational legacy of Confucius—has turned many an inquisitive, bright-eyed student into a sullen rote learner.
+                        <hr class="dash2">
+                        ကလေးတွေအပေါ်မျှော်မှန်းချက်ကြီးကြီးမားမားထားကြတာဟာ တရုတ်ပြည်မှာ အဆန်းမဟုတ်တော့ဘူး... ကွန်ဖြူးရှပ်ရဲ့ ပညာရေးအမွေနဲ့ တွဲထားတဲ့ အခြေခံစာတတ်မြောက်ဖို့အတွက်လိုအပ်တဲ့ ထောင်ပေါင်းများစွာသော အက္ခရာတွေကိုကျွမ်းကျင်ပိုင်နိုင်နေဖို့လိုအပ်ချက်ဟာ စူးစမ်းလေ့လာလိုစိတ်ရှိပြီး တက်ကြွတဲ့ ကျောင်းသားများစွာကို သုန်မှုန်နေတဲ့ စာအလွတ်ကျက်မှတ်သူတွေအဖြစ် ပြောင်းသွားစေတယ်<br>
+                    </div>
+                </div>                
+                <br>
+                <br>
+                အခုဝါကျလေးကို ခွဲခြမ်းစိတ်ဖြာကြည့်ရအောင်<br>
+                <br>
+                <div class="card">
+                    <div class="card-body">
+                        "High expectations for children are nothing new in China" က <span class="text-primary">main clause</span> ဖြစ်ပြီး "where ...... sullen rote learner" က <span class="text-primary">non-defining relative clause</span> ဖြစ်ပါတယ်... "the need to master thousands of characters necessary for basic literacy—coupled with the educational legacy of Confucius—" က <span class="text-primary">non-defining relative clause</span> ရဲ့ <span class="text-primary">subject</span> ဖြစ်ပါတယ်... <span class="text-primary">dash ( — )</span> နှစ်ခုကြားထည့်ထားတဲ့ "coupled with the educational legacy of Confucius" က <span class="text-primary">subject</span> ကို ဖြည့်စွက်ပြောထားခြင်းဖြစ်ပါတယ်... "has turned" က <span class="text-primary">non-defining relative clause</span> ရဲ့ <span class="text-primary">verb</span> ဖြစ်ပြီး "many an inquisitive, bright-eyed student" က "has turned" ရဲ့ <span class="text-primary">object</span> ဖြစ်ပါတယ်... "into a sullen rote learner" က "turn someone into something" ဆိုတဲ့ <span class="text-primary">phrasal verb</span> အသုံးဖြစ်ပါတယ်... တစ်စုံတစ်ယောက်ကို တစ်စုံတစ်ခုအဖြစ်ပြောင်းသွားစေတယ်လို့ အဓိပ္ပါယ်ရပါတယ်<br>
+                    </div>
+                </div>
+                <br>
+                <br>
+                But the pressure on even the youngest children is intensifying<br>
+                ဒါပေမယ့် အသက်အငယ်ဆုံးကလေးတွေပေါ်မှာတောင်မှ ဖိအားပေးတာတွေက ပိုပြီးပြင်းထန်လာနေတယ်<br>
+                <br>
+                as their parents embrace the notion that<br>
+                ကလေးမိဘတွေက အယူအဆကို လက်ခံယုံကြည်လာကြတဲ့အတွက် (ဘာအယူအဆလဲ)<br>
+                <br>
+                education is a primary driver of the kind of upward mobility that was previously unthinkable in China<br>
+                ပညာရေးဟာ တရုတ်ပြည်မှာ အရင်ကစိတ်ကူးလို့တောင်မရခဲ့တဲ့ လူနေမှုအဆင့်အတန်းမြင့်မားမှုမျိုးကို ရရှိစေမယ့်အဓိကအချက်တစ်ခုဖြစ်တယ်ဆိုတဲ့ (အယူအဆ)<br>
+                <br>
+                ( <span class="text-primary">primary driver</span> ဆိုတာက အဓိကအချက်တစ်ခုလို့ အဓိပ္ပါယ်ရပါတယ်... <span class="text-primary">upward mobility</span> ဆိုတာက လူနေမှုအဆင့်အတန်းမြင့်သွားတာ ပိုချမ်းသာလာတာကိုပြောတာပါ... <span class="text-primary">upwardly mobile</span> ဆိုတဲ့ <span class="text-primary">adjective phrase</span> ကို <span class="text-primary">noun phrase</span> အဖြစ်ပြောင်းသုံးထားခြင်းဖြစ်ပါတယ် )<br>
+                <br>
+                အခုဝါကျကို အစကနေ ပြန်ကောက်ကြည့်ရအောင်<br>
+                <br>
+                <div class="card">
+                    <div class="card-body">
+                        But the pressure on even the youngest children is intensifying as their parents embrace the notion that education is a primary driver of the kind of upward mobility that was previously unthinkable in China.
+                        <hr class="dash2">
+                        ပညာရေးဟာ တရုတ်ပြည်မှာ အရင်ကစိတ်ကူးလို့တောင်မရခဲ့တဲ့ လူနေမှုအဆင့်အတန်းမြင့်မားမှုမျိုးကို ရရှိစေမယ့်အဓိကအချက်တစ်ခုဖြစ်တယ်ဆိုတဲ့ အယူအဆကို ကလေးမိဘတွေက လက်ခံယုံကြည်လာကြတဲ့အတွက် အသက်အငယ်ဆုံးကလေးတွေပေါ်မှာတောင်မှ ဖိအားပေးတာတွေက ပိုပြီးပြင်းထန်လာနေတယ်<br>
+                    </div>
+                </div>                
+                <br>
+                <br>
+                အခုဝါကျလေးကို ခွဲခြမ်းစိတ်ဖြာကြည့်ရအောင်<br>
+                <br>
+                <div class="card">
+                    <div class="card-body">
+                        "But the pressure on even the youngest children is intensifying" က <span class="text-primary">main clause</span> ဖြစ်ပြီး "as their parents ..... in China" က <span class="text-primary">subordinate clause</span> ဖြစ်ပါတယ်... "the pressure on even the youngest children" က "is intensifying" ရဲ့ <span class="text-primary">subject</span> ဖြစ်ပါတယ်... "as" က အကြောင်းပြချက်ကိုဖော်ပြတဲ့စကားဆက်ဖြစ်ပြီး "their parents" က "embrace" ရဲ့ <span class="text-primary">subject</span> ဖြစ်ပါတယ်... "the notion" က "embrace" ရဲ့ <span class="text-primary">object</span> ဖြစ်ပြီး "that education is a primary driver of the kind of upward mobility that was previously unthinkable in China" ဟာ "notion" ကို အထူးပြုထားတဲ့ <span class="text-primary">defining relative clause</span> ဖြစ်ပါတယ်... အဲဒီ <span class="text-primary">defining relative clause</span> ထဲမှာ "education" က <span class="text-primary">subject</span> ဖြစ်ပြီး "a primary driver of the kind of upward mobility" က "is" ရဲ့ <span class="text-primary">complement</span> ဖြစ်ပါတယ်.... "that was previously unthinkable in China" က "a primary driver of the kind of upward mobility" ကို အထူးပြုထားတဲ့ <span class="text-primary">defining relative clause</span> ဖြစ်ပါတယ်... education<span class="text-primary">(subject)</span> + is<span class="text-primary">(verb to be)</span> + a primary driver of the kind of upward mobility that was previously unthinkable in China<span class="text-primary">(complement)</span> ပုံစံဖြစ်နေတာကို သတိထားကြည့်ပါ<br>
+                    </div>
+                </div>
+                <br>
+                <br>
+                Eager to provide their kids with a head start<br>
+                သူတို့သားသမီးတွေကို သူများထက်ခေါင်းတစ်လုံးသာစေဖို့ စိတ်အားထက်သန်နေကြတဲ့<br>
+                <br>
+                Chinese parents are signing them up for everything from weekend prep courses for under-sixes to boarding schools for toddlers<br>
+                တရုတ်ပြည်က ကလေးမိဘတွေဟာ သူတို့ကလေးတွေကို 6 နစ်အောက်ကလေးတွေအတွက် စနေ တနင်္ဂနွေမှာဖွင့်တဲ့ (ကျောင်းနေတဲ့အချိန်အဆင်သင့်ဖြစ်အောင်) ပြင်ဆင်ပေးတဲ့သင်တန်းတွေအစ လမ်းလျောက်တတ်စကလေးတွေအတွက်ဖွင့်ထားတဲ့ ဘော်ဒါဆောင်အဆုံး အကုန်လိုက်အပ်ပေးနေပါတယ်<br>
+                <br>
+                ( "sign up" က စာရင်းသွင်းတာ ဖြစ်ပြီး သင်တန်းတစ်ခုခုကိုဖော်ပြချင်ရင် "sign up for something" လို့ သုံးရတာဖြစ်ပါတယ်... "prep" က "preparation" ကို အတိုကောက်ရေးထားတာဖြစ်ပါတယ် )<br>
+                <br>
+                အခုဝါကျကို အစကနေ ပြန်ကောက်ကြည့်ရအောင်<br>
+                <br>
+                <div class="card">
+                    <div class="card-body">
+                        Eager to provide their kids with a head start, Chinese parents are signing them up for everything from weekend prep courses for under-sixes to boarding schools for toddlers.
+                        <hr class="dash2">
+                        သူတို့သားသမီးတွေကို သူများထက်ခေါင်းတစ်လုံးသာစေဖို့ စိတ်အားထက်သန်နေကြတဲ့ တရုတ်ပြည်က ကလေးမိဘတွေဟာ သူတို့ကလေးတွေကို 6 နစ်အောက်ကလေးတွေအတွက် စနေ တနင်္ဂနွေမှာဖွင့်တဲ့ (ကျောင်းနေတဲ့အချိန်အဆင်သင့်ဖြစ်အောင်) ပြင်ဆင်ပေးတဲ့သင်တန်းတွေအစ လမ်းလျောက်တတ်စကလေးတွေအတွက်ဖွင့်ထားတဲ့ ဘော်ဒါဆောင်အဆုံး အကုန်လိုက်အပ်ပေးနေပါတယ်<br>
+                    </div>
+                </div>
+                <br>
+                <br>
+                အခုဝါကျလေးကို ခွဲခြမ်းစိတ်ဖြာကြည့်ရအောင်<br>
+                <br>
+                <div class="card">
+                    <div class="card-body">
+                        "Eager to provide their kids with a head start" က "Chinese parents" ကို အထူးပြုထားပါတယ်... "Chinese parents who are eager ..." နဲ့ အတူတူဖြစ်ပါတယ်... "Chinese parents" က "are signing" ရဲ့ <span class="text-primary">subject</span> ဖြစ်ပြီး "them(their kids)" က "sign up" ရဲ့ <span class="text-primary">object</span> ဖြစ်ပါတယ်... "everything from weekend prep courses for under-sixes to boarding schools for toddlers" က ဘာသင်တန်းတွေပါတယ်ဆိုတဲ့အတိုင်းအတာကို ဖော်ပြခြင်းပဲဖြစ်ပါတယ်
+                    </div>
+                </div>                 
+            </p>
+            <br>
+            <div><span class="text-primary font-weight-bold">Source :</span>
+                <span class="font-weight-bold">Time magazine</span></div>
+            <hr>
+            <p class="text-center"><span class="text-primary font-weight-bold">Matric Grammar Helper by Win Zaw Tun ( Mogok )</span></p>
+            <hr>
+        </div>
+    </body>
+</html>

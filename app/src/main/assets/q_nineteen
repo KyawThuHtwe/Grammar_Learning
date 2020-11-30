@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<meta charset="utf-8"/>
+
+<html>
+
+    <head>
+      <link rel="stylesheet" type="text/css" href="patterns.css">
+      <style>
+
+          @font-face {
+            font-family: mmfont;
+            src:
+                    url("file:///android_asset/fonts/Pyidaungsu-Regular.ttf"),
+                    url("file:///android_asset/fonts/Pyidaungsu-Bold.ttf");
+          }
+
+          html *{
+              font-family: "mmfont";
+              font-size: 0.9rem;
+          }
+
+      </style>
+      <script src="jquery.min.js"></script>
+      <script src="bootstrap.min.js"></script>
+      <title>Old Questions</title>
+    </head>
+
+    <body>
+      <div class="container">
+            <br>
+        <p class="text-center text-primary" style="font-weight: bold; font-size: 1.35rem;">2020 Old Questions</p>
+        <br>
+        <p  class="text-success">ပြည်တွင်း</p>
+        <div>
+            1. If you do not study regularly, you will not pass the exam with high marks.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_1" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Unless .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_1">
+                Unless <span class="text-primary">you study</span> regularly, you will not pass the exam with high marks.
+            </p>
+            <hr>
+            2. She cannot speak when she is angry. She cannot move, either.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_2" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; She can .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_2">
+                She can <span class="text-primary">neither</span> <span class="text-success">speak</span> <span class="text-primary">nor</span> <span class="text-success">move</span> when she is angry.
+            </p>
+            <hr>
+            3. The poem was so fascinating that I could not help reading it again and again.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_3" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; It was such .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_3">
+                It was <span class="text-primary">such a fascinating poem</span> <span class="text-success">that</span> I could not help reading it again and again.
+            </p>
+            <hr>
+            4. When my aunt gets older, she becomes more talkative.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_4" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; The older .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_4">
+                <span class="text-primary">The older</span> my aunt gets, <span class="text-primary">the more talkative</span> she becomes.
+            </p>
+            <hr>
+            5. The mother said, "Children, wash your hands before and after meals.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_5" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; The mother told .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_5">
+                The mother told her children <span class="text-primary">to wash</span> <span class="text-success">their hands</span> before and after meals.
+            <hr>
+            6. All the students in our school obey the rules and regulations of our school.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_6" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; There is .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_6">
+                There is <span class="text-primary">no student in our school</span> <span class="text-success">who</span> <span class="text-primary">does not obey</span> the rules and regulations of our school.
+            </p>
+            <hr>
+            7. Although Thuzar got up early today, she missed the school bus.
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_7" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; In spite of .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_7">
+                In spite of <span class="text-primary">getting</span> up early today, <span class="text-success">Thuzar</span> missed the school bus.
+            </p>
+            <hr>
+            8. As soon as he arrived home, he went into the kitchen and had dinner.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_8" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; No sooner .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_8">
+                No sooner <span class="text-primary">did</span> <span class="text-success">he</span> <span class="text-primary">arrive</span> home <span class="text-success">than</span> he went into the kitchen and had dinner.
+            </p>
+            <hr>
+            9. The sun orbits around the Milky Way galaxy. It is the heart of our solar system.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_9" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; The sun, .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_9">
+                <span class="text-primary">The sun</span>, <span class="text-success">the heart of our solar system</span>, orbits around the Milky Way galaxy. ( OR )<br>
+                <span class="text-primary">The sun</span>, <span class="text-success">which is the heart of our solar system</span>, orbits around the Milky Way galaxy.
+            </p>
+            <hr>
+            10. The vegetables were washed and then put in the refrigerator.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#mm_10" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; After .....
+                </a>
+            </p>
+            <p class="collapse" id="mm_10">
+                After <span class="text-primary">being washed</span>, <span class="text-success">the vegetables</span> were put in the refrigerator.
+            </p>
+            <hr>
+        </div>
+        <p  class="text-success">နိုင်ငံခြား</p>
+        <div>
+            1. He told me that he had seen my cat in front of his house two days before.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_1" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; He said to me .....
+                </a>
+            </p>
+            <p class="collapse" id="for_1">
+                He said to me, "<span class="text-primary">I</span> <span class="text-success">saw</span> <span class="text-primary">your</span> cat in front of <span class="text-success">my</span> house two days <span class="text-secondary">ago</span>.
+            </p>
+            <hr>
+            2. A dream can become reality through determination and hard work.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_2" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; It is .....
+                </a>
+            </p>
+            <p class="collapse" id="for_2">
+                It is <span class="text-primary">through determination and hard work</span> <span class="text-success">that</span> a dream can become reality.
+            </p>
+            <hr>
+            3. Good habits formed through practice can transform us into valuable citizens.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_3" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; We .....
+                </a>
+            </p>
+            <p class="collapse" id="for_3">
+                We <span class="text-primary">can be transformed</span> into valuable citizens <span class="text-success">by good habits formed through practice</span>.
+            </p>
+            <hr>
+            4. The world's attention has been captured by outstanding persons throughout history.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_4" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Outstanding persons .....
+                </a>
+            </p>
+            <p class="collapse" id="for_4">
+                Outstanding persons <span class="text-primary">have captured</span> <span class="text-success">the world's attention</span> throughout history.
+            </p>
+            <hr>
+            5. You cannot keep the city clean. You do not stop your habit of littering.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_5" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Without .....
+                </a>
+            </p>
+            <p class="collapse" id="for_5">
+                Without <span class="text-primary">stopping</span> your habit of littering, <span class="text-success">you</span> cannot keep the city clean.
+            </p>
+            <hr>
+            6. The return on the investment in education is higher than that on the investment in physical capital.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_6" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; The return on the investment in physical .....
+                </a>
+            </p>
+            <p class="collapse" id="for_6">
+                The return on the investment in physical capital is <span class="text-primary">not as high as</span> that on the investment in education.
+            </p>
+            <hr>
+            7. All teachers have a strong desire to improve the lives of their students.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_7" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; There is no .....
+                </a>
+            </p>
+            <p class="collapse" id="for_7">
+                There is no <span class="text-primary">teacher</span> <span class="text-success">who</span> <span class="text-secondary">does not have</span> a strong desire to improve the lives of his or her students.
+            </p>
+            <hr>
+            8. In spite of the hardships she faces in life, she never fails to have a positive outlook on life.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_8" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; Although .....
+                </a>
+            </p>
+            <p class="collapse" id="for_8">
+                Although <span class="text-primary">she</span> <span class="text-success">faces</span> hardships in life, <span class="text-primary">she</span> never fails to have a positive outlook on life.
+            </p>
+            <hr>
+            9. His room was so untidy that he could not find anything he was looking for.<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_9" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; It was such .....
+                </a>
+            </p>
+            <p class="collapse" id="for_9">
+                It was <span class="text-primary">such an untidy room </span> <span class="text-success">that</span> he could not find anything he was looking for.
+            </p>
+            <hr>
+            10. His father said to him, "You can follow your heart if you pass this exam."<br>
+            <p>            
+                <a style="text-decoration: none;" data-toggle="collapse" href="#for_10" aria-expanded="false" aria-controls="collapseExample">
+                    &#9654; His father told him .....
+                </a>
+            </p>
+            <p class="collapse" id="for_10">
+                His father told him that <span class="text-primary">he</span> <span class="text-success">could follow</span> <span class="text-primary">his</span> heart if <span class="text-success">he</span> <span class="text-primary">passed</span> <span class="text-secondary">that</span> exam.
+            </p>
+            <hr>
+            <p class="text-center"><span class="text-primary font-weight-bold">Matric Grammar Helper by Win Zaw Tun ( Mogok )
+            <hr>
+        </div>
+
+      </div>
+    </body>
+
+</html>
