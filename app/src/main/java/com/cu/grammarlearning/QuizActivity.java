@@ -3,6 +3,7 @@ package com.cu.grammarlearning;
 import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.os.Bundle;
+import android.os.Handler;
 import android.text.TextUtils;
 import android.view.MenuItem;
 import android.view.View;
@@ -32,7 +33,8 @@ public class QuizActivity extends AppCompatActivity {
     //ေမးခြန္းေတြ သိမ္းဖို႔ array
     ArrayList<QuizItem> quizItems;
     String correctAnswer;
-    int trials=0,count=1,currentQuizIndex;
+    int trials=0,count=1,currentQuizIndex,m,s;
+    String quiz_time="";
 
     @SuppressLint("RestrictedApi")
     @Override
@@ -106,8 +108,70 @@ public class QuizActivity extends AppCompatActivity {
             }
         });
 
-    }
+        String timer=getIntent().getStringExtra("Timer");
+        if(!TextUtils.isEmpty(timer)){
+            if(timer.equals("1 Minutes")){
+                quiz_time="1:00";
+            }else if(timer.equals("2 Minutes")){
+                quiz_time="2:00";
+            }else if(timer.equals("3 Minutes")){
+                quiz_time="3:00";
+            }else if(timer.equals("4 Minutes")){
+                quiz_time="4:00";
+            }else if(timer.equals("5 Minutes")){
+                quiz_time="5:00";
+            }else if(timer.equals("6 Minutes")){
+                quiz_time="6:00";
+            }else if(timer.equals("7 Minutes")){
+                quiz_time="7:00";
+            }else if(timer.equals("8 Minutes")){
+                quiz_time="8:00";
+            }else if(timer.equals("9 Minutes")){
+                quiz_time="9:00";
+            }else if(timer.equals("10 Minutes")){
+                quiz_time="10:00";
+            }
+            m=Integer.parseInt(quiz_time.split(":")[0]);
+            s=Integer.parseInt(quiz_time.split(":")[1]);
+            handler.post(runnable);
+        }
 
+    }
+    Handler handler=new Handler();
+    Runnable runnable=new Runnable() {
+        @SuppressLint("SetTextI18n")
+        @Override
+        public void run() {
+            handler.postDelayed(this,1000);
+            try {
+                if(s>0){
+                    s--;
+                }else{
+                    if(m>0){
+                        m-=1;
+                        s=60;
+                    }else{
+                        handler.removeCallbacks(runnable);
+                        int answer =trials;
+                        Intent intent=new Intent(getApplicationContext(),
+                                ResultActivity.class);
+                        intent.putExtra("Type",getIntent().getStringExtra("Type"));
+                        intent.putExtra("Q",getIntent().getStringExtra("Q"));
+                        intent.putExtra("Timer",getIntent().getStringExtra("Timer"));
+                        intent.putExtra("answer",answer);
+                        intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK|Intent.FLAG_ACTIVITY_CLEAR_TASK);
+                        startActivity(intent);
+                        finish();
+                    }
+                }
+                getSupportActionBar().setSubtitle(m+":"+s+"");
+
+            }catch (Exception e){
+                Toast.makeText(getApplicationContext(),e.getMessage(),Toast.LENGTH_SHORT).show();
+            }
+
+        }
+    };
     //လက္ရွိ ေမးခြန္း index အရ ေမးခြန္း ျပျခင္း
     @SuppressLint("SetTextI18n")
     public void showQuiz(){
@@ -202,7 +266,7 @@ public class QuizActivity extends AppCompatActivity {
                     intent.putExtra("answer",answer);
                     intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                     startActivity(intent);
-
+                    finish();
                 }
             }else{
                 if (count <10) {
@@ -218,14 +282,17 @@ public class QuizActivity extends AppCompatActivity {
                     rb3.setTextColor(getResources().getColor(R.color.colorTextSecondary));
                     rb4.setTextColor(getResources().getColor(R.color.colorTextSecondary));
                 } else {
+                    handler.removeCallbacks(runnable);
                     int answer =trials;
                     Intent intent=new Intent(getApplicationContext(),
                             ResultActivity.class);
                     intent.putExtra("Type",getIntent().getStringExtra("Type"));
                     intent.putExtra("Q",getIntent().getStringExtra("Q"));
+                    intent.putExtra("Timer",getIntent().getStringExtra("Timer"));
                     intent.putExtra("answer",answer);
                     intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                     startActivity(intent);
+                    finish();
 
                 }
             }
@@ -238,6 +305,7 @@ public class QuizActivity extends AppCompatActivity {
     @Override
     public boolean onOptionsItemSelected(@NonNull MenuItem item) {
         if(item.getItemId()==android.R.id.home){
+            handler.removeCallbacks(runnable);
             String Retry=getIntent().getStringExtra("Retry");
             if(!TextUtils.isEmpty(Retry)){
                 startActivity(new Intent(getApplicationContext(),
@@ -251,6 +319,7 @@ public class QuizActivity extends AppCompatActivity {
 
     @Override
     public void onBackPressed() {
+        handler.removeCallbacks(runnable);
         String Retry=getIntent().getStringExtra("Retry");
         if(!TextUtils.isEmpty(Retry)){
             startActivity(new Intent(getApplicationContext(),

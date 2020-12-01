@@ -6,35 +6,49 @@
     android:layout_height="match_parent"
     tools:context=".Fragments.quizFragment">
 
-    <TextView
-        android:layout_margin="80dp"
-        android:gravity="center"
-        android:textAllCaps="true"
-        android:textSize="35sp"
-        android:textColor="@color/colorPrimary"
-        android:text="Quiz ?"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"/>
     <LinearLayout
         android:gravity="center"
-        android:orientation="horizontal"
+        android:orientation="vertical"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
-        <ImageView
-            android:src="@drawable/grade"
-            android:layout_width="60dp"
-            android:layout_height="60dp"
-            app:tint="@color/colorAccent" />
-        <ImageView
-            android:src="@drawable/grade"
-            android:layout_width="60dp"
-            android:layout_height="60dp"
-            app:tint="@color/colorAccent" />
-        <ImageView
-            android:src="@drawable/grade"
-            android:layout_width="60dp"
-            android:layout_height="60dp"
-            app:tint="@color/colorAccent" />
+        <TextView
+            android:layout_margin="80dp"
+            android:gravity="center"
+            android:textAllCaps="true"
+            android:textSize="35sp"
+            android:textColor="@color/colorPrimary"
+            android:text="Quiz ?"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <LinearLayout
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:src="@drawable/grade"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                app:tint="@color/colorAccent" />
+            <ImageView
+                android:src="@drawable/grade"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                app:tint="@color/colorAccent" />
+            <ImageView
+                android:src="@drawable/grade"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                app:tint="@color/colorAccent" />
+
+        </LinearLayout>
+        <androidx.viewpager.widget.ViewPager
+            android:foregroundGravity="center"
+            android:id="@+id/viewPager"
+            android:overScrollMode="never"
+            android:clipToPadding="false"
+            android:layout_width="match_parent"
+            android:layout_height="270dp"/>
 
     </LinearLayout>
     <Button

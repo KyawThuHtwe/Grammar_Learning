@@ -10,7 +10,7 @@ public class QuizDataPump {
         ArrayList<QuizItem> quizItems=new ArrayList<>();
 
         ArrayList<QuizItem> quizItems1=new ArrayList<>();
-        quizItems1.add(new QuizItem("How .....  did they find of gllobal warming.","(i) many evidence","(ii) much evidence","","","(ii) much evidence"));
+        quizItems1.add(new QuizItem("How .....  did they find of global warming.","(i) many evidence","(ii) much evidence","","","(ii) much evidence"));
         quizItems1.add(new QuizItem("Do electric cars produce .....?","(i) many pollution","(ii) much pollution","","","(ii) much pollution"));
         quizItems1.add(new QuizItem("..... enjoy sports which are not competitive.","(i) Many people","(ii) Much people","","","(i) Many people"));
         quizItems1.add(new QuizItem("I haven't heard ..... about recent developments in extreme sports.","(i) many news","(ii) much news","","","(ii) much news"));
@@ -47,7 +47,7 @@ public class QuizDataPump {
         ArrayList<QuizItem> quizItems6=new ArrayList<>();
         quizItems6.add(new QuizItem("Smoking is forbidden in the factory.","(i) You mustn't smoke in the factory.","(ii) You have to smoke in the factory.","","","(i) You mustn't smoke in the factory."));
         quizItems6.add(new QuizItem("It's not necessary to leave home early to beat the rush hour now.","(i) You don't have to leave home early to beat the rush hour now.","(ii) You must leave home early to beat the rush hour now.","","","(ii) You must leave home early to beat the rush hour now."));
-        quizItems6.add(new QuizItem("The regulations state that the nightshift begins at 9.30.","(i) We have to begin work at 9.30.","(ii) We must begin work at 9.30.","","","(i) We have to begin work at 9.30."));
+        quizItems6.add(new QuizItem("The regulations state that the night shift begins at 9.30.","(i) We have to begin work at 9.30.","(ii) We must begin work at 9.30.","","","(i) We have to begin work at 9.30."));
         quizItems6.add(new QuizItem("I can stay in bed all day tomorrow.","(i) I must have to get up tomorrow.","(ii) I don't have to get up tomorrow.","","","(ii) I don't have to get up tomorrow."));
         quizItems6.add(new QuizItem("When I work nights,I am forced to do my shopping on the Internet.","(i) When I work nights,I have to do my shopping on the Internet.","(ii) When I work nights,I must do my shopping on the Internet.","","","(i) When I work nights,I have to do my shopping on the Internet."));
 
@@ -204,13 +204,6 @@ public class QuizDataPump {
         quizItems28.add(new QuizItem("We ---- in London for three years next week.","(i) have","(ii) will have","(iii) will been","(iv) will have been","(iv) will have been"));
         quizItems28.add(new QuizItem("---- home by lunch time?","(i) Will have she got","(ii) Will she got","(iii) Will she have got","(iv) Will have got","(iii) Will she have got"));
         quizItems28.add(new QuizItem("They ---- all the questions by 8.00 in the evening.","(i) will have replied","(ii) will has replied","(iii) will have reply","(iv) will had replied","(i) will have replied"));
-
-        ArrayList<QuizItem> quizItems29=new ArrayList<>();
-        quizItems29.add(new QuizItem("","","","","",""));
-        quizItems29.add(new QuizItem("","","","","",""));
-        quizItems29.add(new QuizItem("","","","","",""));
-        quizItems29.add(new QuizItem("","","","","",""));
-        quizItems29.add(new QuizItem("","","","","",""));
 
         switch (title){
             case "Countable/Uncountable Noun":
